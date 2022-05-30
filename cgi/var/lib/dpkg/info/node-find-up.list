@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-find-up
+/usr/share/doc/node-find-up/changelog.Debian.gz
+/usr/share/doc/node-find-up/copyright
+/usr/share/doc/node-find-up/readme.md
+/usr/share/nodejs
+/usr/share/nodejs/find-up
+/usr/share/nodejs/find-up/index.d.ts
+/usr/share/nodejs/find-up/index.js
+/usr/share/nodejs/find-up/package.json

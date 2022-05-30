@@ -1,0 +1,12 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-write-file-atomic
+/usr/share/doc/node-write-file-atomic/README.md
+/usr/share/doc/node-write-file-atomic/changelog.Debian.gz
+/usr/share/doc/node-write-file-atomic/copyright
+/usr/share/nodejs
+/usr/share/nodejs/write-file-atomic
+/usr/share/nodejs/write-file-atomic/index.js
+/usr/share/nodejs/write-file-atomic/package.json

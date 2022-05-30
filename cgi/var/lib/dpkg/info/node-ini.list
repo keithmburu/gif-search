@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/nodejs
+/usr/lib/nodejs/ini
+/usr/lib/nodejs/ini/ini.js
+/usr/lib/nodejs/ini/package.json
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-ini
+/usr/share/doc/node-ini/README.md
+/usr/share/doc/node-ini/changelog.Debian.gz
+/usr/share/doc/node-ini/copyright

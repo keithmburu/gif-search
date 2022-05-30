@@ -1,0 +1,12 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-lru-cache
+/usr/share/doc/node-lru-cache/README.md.gz
+/usr/share/doc/node-lru-cache/changelog.Debian.gz
+/usr/share/doc/node-lru-cache/copyright
+/usr/share/nodejs
+/usr/share/nodejs/lru-cache
+/usr/share/nodejs/lru-cache/index.js
+/usr/share/nodejs/lru-cache/package.json

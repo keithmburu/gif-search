@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-mimic-fn
+/usr/share/doc/node-mimic-fn/changelog.Debian.gz
+/usr/share/doc/node-mimic-fn/copyright
+/usr/share/doc/node-mimic-fn/readme.md
+/usr/share/nodejs
+/usr/share/nodejs/mimic-fn
+/usr/share/nodejs/mimic-fn/index.d.ts
+/usr/share/nodejs/mimic-fn/index.js
+/usr/share/nodejs/mimic-fn/package.json

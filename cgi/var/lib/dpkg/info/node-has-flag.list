@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-has-flag
+/usr/share/doc/node-has-flag/changelog.Debian.gz
+/usr/share/doc/node-has-flag/copyright
+/usr/share/doc/node-has-flag/readme.md
+/usr/share/nodejs
+/usr/share/nodejs/has-flag
+/usr/share/nodejs/has-flag/index.d.ts
+/usr/share/nodejs/has-flag/index.js
+/usr/share/nodejs/has-flag/package.json

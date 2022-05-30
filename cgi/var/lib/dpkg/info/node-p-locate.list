@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/nodejs
+/usr/lib/nodejs/p-locate
+/usr/lib/nodejs/p-locate/index.js
+/usr/lib/nodejs/p-locate/package.json
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-p-locate
+/usr/share/doc/node-p-locate/changelog.Debian.gz
+/usr/share/doc/node-p-locate/copyright
+/usr/share/doc/node-p-locate/readme.md

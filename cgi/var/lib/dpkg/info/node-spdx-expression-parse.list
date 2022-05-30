@@ -1,0 +1,14 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-spdx-expression-parse
+/usr/share/doc/node-spdx-expression-parse/README.md
+/usr/share/doc/node-spdx-expression-parse/changelog.Debian.gz
+/usr/share/doc/node-spdx-expression-parse/copyright
+/usr/share/nodejs
+/usr/share/nodejs/spdx-expression-parse
+/usr/share/nodejs/spdx-expression-parse/index.js
+/usr/share/nodejs/spdx-expression-parse/package.json
+/usr/share/nodejs/spdx-expression-parse/parse.js
+/usr/share/nodejs/spdx-expression-parse/scan.js

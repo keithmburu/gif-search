@@ -1,0 +1,15 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-assert-plus
+/usr/share/doc/node-assert-plus/README.md.gz
+/usr/share/doc/node-assert-plus/changelog.Debian.gz
+/usr/share/doc/node-assert-plus/copyright
+/usr/share/nodejs
+/usr/share/nodejs/assert-plus
+/usr/share/nodejs/assert-plus/assert.js
+/usr/share/nodejs/assert-plus/package.json
+/usr/share/nodejs/assert-plus/tools
+/usr/share/nodejs/assert-plus/tools/jsl.node.conf
+/usr/share/nodejs/assert-plus/tools/jsstyle.conf

@@ -1,0 +1,8 @@
+729dc92fa146106aa61bfa4abdbafc4e  usr/share/doc/node-ecc-jsbn/README.md
+262d5a85d731a038928a301837b4bf7f  usr/share/doc/node-ecc-jsbn/changelog.Debian.gz
+d71ece874756c8f52be56854047ceda0  usr/share/doc/node-ecc-jsbn/copyright
+f260b3aaa451d5b9f5aabf55fbe4e44e  usr/share/nodejs/ecc-jsbn/index.js
+c0124e1d465e432f1e5c37fb98c59529  usr/share/nodejs/ecc-jsbn/lib/ec.js
+72cb38f8ae436d84ff00357219128339  usr/share/nodejs/ecc-jsbn/lib/sec.js
+a9864740674a68f356fbbb632f104258  usr/share/nodejs/ecc-jsbn/package.json
+621a8c0d38a38753d554364dc6f38f73  usr/share/nodejs/ecc-jsbn/test.js

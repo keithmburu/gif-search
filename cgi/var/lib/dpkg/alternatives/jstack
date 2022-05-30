@@ -1,0 +1,9 @@
+auto
+/usr/bin/jstack
+jstack.1.gz
+/usr/share/man/man1/jstack.1.gz
+
+/usr/lib/jvm/java-17-openjdk-amd64/bin/jstack
+1711
+/usr/lib/jvm/java-17-openjdk-amd64/man/man1/jstack.1.gz
+

@@ -1,0 +1,14 @@
+/.
+/usr
+/usr/lib
+/usr/lib/nodejs
+/usr/lib/nodejs/core-util-is
+/usr/lib/nodejs/core-util-is/lib
+/usr/lib/nodejs/core-util-is/lib/util.js
+/usr/lib/nodejs/core-util-is/package.json
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-core-util-is
+/usr/share/doc/node-core-util-is/copyright
+/usr/share/doc/node-core-util-is/changelog.Debian.gz
+/usr/share/doc/node-core-util-is/README.md

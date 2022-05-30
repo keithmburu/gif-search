@@ -1,0 +1,16 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-mimic-response
+/usr/share/doc/node-mimic-response/changelog.Debian.gz
+/usr/share/doc/node-mimic-response/copyright
+/usr/share/doc/node-mimic-response/readme.md
+/usr/share/lintian
+/usr/share/lintian/overrides
+/usr/share/lintian/overrides/node-mimic-response
+/usr/share/nodejs
+/usr/share/nodejs/mimic-response
+/usr/share/nodejs/mimic-response/index.d.ts
+/usr/share/nodejs/mimic-response/index.js
+/usr/share/nodejs/mimic-response/package.json

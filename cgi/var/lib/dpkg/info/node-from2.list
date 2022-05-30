@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/nodejs
+/usr/lib/nodejs/from2
+/usr/lib/nodejs/from2/index.js
+/usr/lib/nodejs/from2/package.json
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-from2
+/usr/share/doc/node-from2/README.md
+/usr/share/doc/node-from2/changelog.Debian.gz
+/usr/share/doc/node-from2/copyright

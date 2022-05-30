@@ -1,0 +1,9 @@
+auto
+/usr/bin/javap
+javap.1.gz
+/usr/share/man/man1/javap.1.gz
+
+/usr/lib/jvm/java-17-openjdk-amd64/bin/javap
+1711
+/usr/lib/jvm/java-17-openjdk-amd64/man/man1/javap.1.gz
+

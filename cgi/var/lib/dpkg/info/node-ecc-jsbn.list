@@ -1,0 +1,16 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-ecc-jsbn
+/usr/share/doc/node-ecc-jsbn/README.md
+/usr/share/doc/node-ecc-jsbn/changelog.Debian.gz
+/usr/share/doc/node-ecc-jsbn/copyright
+/usr/share/nodejs
+/usr/share/nodejs/ecc-jsbn
+/usr/share/nodejs/ecc-jsbn/index.js
+/usr/share/nodejs/ecc-jsbn/lib
+/usr/share/nodejs/ecc-jsbn/lib/ec.js
+/usr/share/nodejs/ecc-jsbn/lib/sec.js
+/usr/share/nodejs/ecc-jsbn/package.json
+/usr/share/nodejs/ecc-jsbn/test.js

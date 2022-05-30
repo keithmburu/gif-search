@@ -1,0 +1,14 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-cli-boxes
+/usr/share/doc/node-cli-boxes/changelog.Debian.gz
+/usr/share/doc/node-cli-boxes/copyright
+/usr/share/doc/node-cli-boxes/readme.md
+/usr/share/nodejs
+/usr/share/nodejs/cli-boxes
+/usr/share/nodejs/cli-boxes/boxes.json
+/usr/share/nodejs/cli-boxes/index.d.ts
+/usr/share/nodejs/cli-boxes/index.js
+/usr/share/nodejs/cli-boxes/package.json

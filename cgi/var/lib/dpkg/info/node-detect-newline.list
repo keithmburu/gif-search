@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/nodejs
+/usr/lib/nodejs/detect-newline
+/usr/lib/nodejs/detect-newline/index.js
+/usr/lib/nodejs/detect-newline/package.json
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-detect-newline
+/usr/share/doc/node-detect-newline/changelog.Debian.gz
+/usr/share/doc/node-detect-newline/copyright
+/usr/share/doc/node-detect-newline/readme.md

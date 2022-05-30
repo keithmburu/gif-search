@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/nodejs
+/usr/lib/nodejs/decompress-response
+/usr/lib/nodejs/decompress-response/index.js
+/usr/lib/nodejs/decompress-response/package.json
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-decompress-response
+/usr/share/doc/node-decompress-response/changelog.Debian.gz
+/usr/share/doc/node-decompress-response/copyright
+/usr/share/doc/node-decompress-response/readme.md

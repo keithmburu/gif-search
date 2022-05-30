@@ -1,0 +1,5 @@
+#!/bin/sh
+set -e
+# Automatically added by dh_installdeb/12.9ubuntu1
+dpkg-maintscript-helper symlink_to_dir /usr/lib/nodejs/duplexer2 0.1.4-5\~ -- "$@"
+# End automatically added section

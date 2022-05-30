@@ -1,0 +1,6 @@
+6a6d8d17ecd10a959ae952b820b99ef4  usr/share/doc/node-jsonparse/changelog.Debian.gz
+63f5d80d08f0a0abbd89f931f49bc942  usr/share/doc/node-jsonparse/copyright
+135bb9059694df9cb16d94ba61e7159d  usr/share/doc/node-jsonparse/examples/twitterfeed.js
+ce700fe54994f863bc96769ae38c469d  usr/share/lintian/overrides/node-jsonparse
+375aed74769a776adce6e646a222a83d  usr/share/nodejs/jsonparse/jsonparse.js
+ee8bcd21a4f6ff17d0894ea591ae0032  usr/share/nodejs/jsonparse/package.json

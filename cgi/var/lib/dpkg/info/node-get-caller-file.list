@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/nodejs
+/usr/lib/nodejs/get-caller-file
+/usr/lib/nodejs/get-caller-file/index.js
+/usr/lib/nodejs/get-caller-file/package.json
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-get-caller-file
+/usr/share/doc/node-get-caller-file/README.md
+/usr/share/doc/node-get-caller-file/changelog.Debian.gz
+/usr/share/doc/node-get-caller-file/copyright

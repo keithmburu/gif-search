@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-ansi-regex
+/usr/share/doc/node-ansi-regex/changelog.Debian.gz
+/usr/share/doc/node-ansi-regex/copyright
+/usr/share/doc/node-ansi-regex/readme.md
+/usr/share/nodejs
+/usr/share/nodejs/ansi-regex
+/usr/share/nodejs/ansi-regex/index.d.ts
+/usr/share/nodejs/ansi-regex/index.js
+/usr/share/nodejs/ansi-regex/package.json

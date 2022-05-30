@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/nodejs
+/usr/lib/nodejs/ms
+/usr/lib/nodejs/ms/index.js
+/usr/lib/nodejs/ms/package.json
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-ms
+/usr/share/doc/node-ms/changelog.Debian.gz
+/usr/share/doc/node-ms/copyright
+/usr/share/doc/node-ms/readme.md

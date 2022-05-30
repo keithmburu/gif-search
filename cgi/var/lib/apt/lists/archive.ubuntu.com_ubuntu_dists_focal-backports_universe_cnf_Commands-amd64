@@ -1,0 +1,77 @@
+suite: focal-backports
+component: universe
+arch: amd64
+
+
+name: cockpit-bridge
+version: 264-1~bpo20.04.1
+commands: cockpit-bridge
+
+name: freeipmi-bmc-watchdog
+version: 1.6.9-2~bpo20.04.1
+commands: bmc-watchdog
+
+name: freeipmi-ipmidetect
+version: 1.6.9-2~bpo20.04.1
+commands: ipmi-detect,ipmidetect,ipmidetectd
+
+name: freeipmi-ipmiseld
+version: 1.6.9-2~bpo20.04.1
+commands: ipmiseld
+
+name: gallery-dl
+version: 1.21.1-1~bpo20.04.1
+commands: gallery-dl
+
+name: gramps
+version: 5.1.5-1~bpo20.04.1
+commands: gramps
+
+name: ibus-typing-booster
+version: 2.9.6-1~ubuntu20.04.1
+commands: emoji-picker
+
+name: inkscape
+version: 1.1.1-3ubuntu1~bpo20.04.1
+commands: inkscape,inkview
+
+name: libreoffice-base
+version: 1:7.2.7-0ubuntu0.21.10.1~bpo20.04.1
+commands: lobase
+
+name: libsdbus-c++-bin
+version: 0.8.3-4~bpo20.04.1
+commands: sdbus-c++-xml2cpp
+
+name: lvm2-dbusd
+version: 2.03.11-2ubuntu4~ubuntu20.04.1
+commands: lvmdbusd
+
+name: lvm2-lockd
+version: 2.03.11-2ubuntu4~ubuntu20.04.1
+commands: lvmlockctl,lvmlockd
+
+name: opencpn
+version: 5.6.0+dfsg1-1~bpo20.04.1
+commands: opencpn
+
+name: python3-simplestreams-openstack
+version: 0.1.0-48-gb936edd4-0ubuntu1~bpo20.04.1
+commands: sstream-mirror-glance
+
+name: sanlock
+version: 3.8.2-2~ubuntu20.04.1
+commands: sanlock,wdmd
+
+name: simplestreams
+version: 0.1.0-48-gb936edd4-0ubuntu1~bpo20.04.1
+commands: json2streams,sstream-mirror,sstream-query,sstream-sync
+
+name: ubuntu-dev-tools
+version: 0.187~bpo20.04.1
+commands: backportpackage,bitesize,check-mir,check-symbols,cowbuilder-dist,dch-repeat,grab-merge,grep-merges,import-bug-from-debian,merge-changelog,mk-sbuild,pbuilder-dist,pbuilder-dist-simple,pull-debian-ddebs,pull-debian-debdiff,pull-debian-debs,pull-debian-source,pull-debian-udebs,pull-lp-ddebs,pull-lp-debs,pull-lp-source,pull-lp-udebs,pull-pkg,pull-ppa-ddebs,pull-ppa-debs,pull-ppa-source,pull-ppa-udebs,pull-uca-ddebs,pull-uca-debs,pull-uca-source,pull-uca-udebs,requestbackport,requestsync,reverse-depends,seeded-in-ubuntu,setup-packaging-environment,sponsor-patch,submittodebian,syncpackage,ubuntu-build,ubuntu-iso,ubuntu-upload-permission,update-maintainer
+
+name: yt-dlp
+version: 2022.03.08.1-1~bpo20.04.1
+commands: yt-dlp
+

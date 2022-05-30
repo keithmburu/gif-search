@@ -1,0 +1,12 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-ansistyles
+/usr/share/doc/node-ansistyles/README.md
+/usr/share/doc/node-ansistyles/changelog.Debian.gz
+/usr/share/doc/node-ansistyles/copyright
+/usr/share/nodejs
+/usr/share/nodejs/ansistyles
+/usr/share/nodejs/ansistyles/ansistyles.js
+/usr/share/nodejs/ansistyles/package.json

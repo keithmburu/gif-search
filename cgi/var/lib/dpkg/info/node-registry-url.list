@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/nodejs
+/usr/lib/nodejs/registry-url
+/usr/lib/nodejs/registry-url/index.js
+/usr/lib/nodejs/registry-url/package.json
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-registry-url
+/usr/share/doc/node-registry-url/changelog.Debian.gz
+/usr/share/doc/node-registry-url/copyright
+/usr/share/doc/node-registry-url/readme.md

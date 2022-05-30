@@ -1,0 +1,15 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-archy
+/usr/share/doc/node-archy/changelog.Debian.gz
+/usr/share/doc/node-archy/copyright
+/usr/share/doc/node-archy/examples
+/usr/share/doc/node-archy/examples/beep.js
+/usr/share/doc/node-archy/examples/multi_line.js
+/usr/share/doc/node-archy/readme.markdown
+/usr/share/nodejs
+/usr/share/nodejs/archy
+/usr/share/nodejs/archy/index.js
+/usr/share/nodejs/archy/package.json

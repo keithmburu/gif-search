@@ -1,0 +1,16 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-chalk
+/usr/share/doc/node-chalk/changelog.Debian.gz
+/usr/share/doc/node-chalk/copyright
+/usr/share/doc/node-chalk/readme.md.gz
+/usr/share/nodejs
+/usr/share/nodejs/chalk
+/usr/share/nodejs/chalk/index.js
+/usr/share/nodejs/chalk/index.js.flow
+/usr/share/nodejs/chalk/package.json
+/usr/share/nodejs/chalk/templates.js
+/usr/share/nodejs/chalk/types
+/usr/share/nodejs/chalk/types/index.d.ts

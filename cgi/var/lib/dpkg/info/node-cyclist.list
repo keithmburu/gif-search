@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/nodejs
+/usr/lib/nodejs/cyclist
+/usr/lib/nodejs/cyclist/index.js
+/usr/lib/nodejs/cyclist/package.json
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-cyclist
+/usr/share/doc/node-cyclist/README.md
+/usr/share/doc/node-cyclist/changelog.Debian.gz
+/usr/share/doc/node-cyclist/copyright

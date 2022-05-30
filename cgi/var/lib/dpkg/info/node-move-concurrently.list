@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/nodejs
+/usr/lib/nodejs/move-concurrently
+/usr/lib/nodejs/move-concurrently/move.js
+/usr/lib/nodejs/move-concurrently/package.json
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-move-concurrently
+/usr/share/doc/node-move-concurrently/README.md
+/usr/share/doc/node-move-concurrently/changelog.Debian.gz
+/usr/share/doc/node-move-concurrently/copyright

@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/nodejs
+/usr/lib/nodejs/jsbn
+/usr/lib/nodejs/jsbn/index.js
+/usr/lib/nodejs/jsbn/package.json
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-jsbn
+/usr/share/doc/node-jsbn/README.md
+/usr/share/doc/node-jsbn/changelog.Debian.gz
+/usr/share/doc/node-jsbn/copyright

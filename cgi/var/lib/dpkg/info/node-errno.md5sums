@@ -1,0 +1,7 @@
+cc52c47bf5ec4a1104652e5f0d9beac5  usr/share/doc/node-errno/README.md.gz
+5ae9aa8c29ae857dc6bf10348459a9f6  usr/share/doc/node-errno/changelog.Debian.gz
+ee1a359744bba335b6e78fa144cb265f  usr/share/doc/node-errno/copyright
+1af0e5cea4fe287f579f90da7a2addc8  usr/share/nodejs/errno/cli.js
+93faec18bd92c790b73ea33565b1da56  usr/share/nodejs/errno/custom.js
+8ec56ab2cd46d762e5b29c325a6dfaad  usr/share/nodejs/errno/errno.js
+0eafe18d09a14568949d078a7d185517  usr/share/nodejs/errno/package.json

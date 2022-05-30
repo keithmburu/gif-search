@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/nodejs
+/usr/lib/nodejs/require-directory
+/usr/lib/nodejs/require-directory/index.js
+/usr/lib/nodejs/require-directory/package.json
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-require-directory
+/usr/share/doc/node-require-directory/README.markdown.gz
+/usr/share/doc/node-require-directory/changelog.Debian.gz
+/usr/share/doc/node-require-directory/copyright

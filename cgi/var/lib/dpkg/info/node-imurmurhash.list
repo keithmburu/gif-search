@@ -1,0 +1,15 @@
+/.
+/usr
+/usr/lib
+/usr/lib/nodejs
+/usr/lib/nodejs/imurmurhash
+/usr/lib/nodejs/imurmurhash/README.md
+/usr/lib/nodejs/imurmurhash/imurmurhash.js
+/usr/lib/nodejs/imurmurhash/imurmurhash.min.js
+/usr/lib/nodejs/imurmurhash/package.json
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-imurmurhash
+/usr/share/doc/node-imurmurhash/README.md.gz
+/usr/share/doc/node-imurmurhash/changelog.Debian.gz
+/usr/share/doc/node-imurmurhash/copyright

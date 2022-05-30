@@ -1,0 +1,10 @@
+8d418f82018ac91771cc59ed55788cb3  usr/share/doc/node-retry/README.md.gz
+52f813d490246daac28f8ef7c664ab95  usr/share/doc/node-retry/changelog.Debian.gz
+1d17d811eeff497670e799ecdd9350d9  usr/share/doc/node-retry/copyright
+b42ce4523534a474d2304c912f5741f3  usr/share/doc/node-retry/examples/dns.js
+dc37471d3d352c9bc8895c759b94d8d1  usr/share/doc/node-retry/examples/stop.js
+1cf3daf3b211512c128642b4ce5750f6  usr/share/nodejs/retry/equation.gif
+88dd2440b3948e0b1fb35b10dc21488f  usr/share/nodejs/retry/index.js
+0314c108f24ca02f1d129f4510d4e58e  usr/share/nodejs/retry/lib/retry.js
+56f7038ee5e886d8d28ca09d4e02a6fd  usr/share/nodejs/retry/lib/retry_operation.js
+e7527b291556faae46548f205700e65f  usr/share/nodejs/retry/package.json

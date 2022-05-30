@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-ip-regex
+/usr/share/doc/node-ip-regex/changelog.Debian.gz
+/usr/share/doc/node-ip-regex/copyright
+/usr/share/doc/node-ip-regex/readme.md
+/usr/share/nodejs
+/usr/share/nodejs/ip-regex
+/usr/share/nodejs/ip-regex/index.d.ts
+/usr/share/nodejs/ip-regex/index.js
+/usr/share/nodejs/ip-regex/package.json

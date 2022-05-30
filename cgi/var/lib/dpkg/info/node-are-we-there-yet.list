@@ -1,0 +1,16 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-are-we-there-yet
+/usr/share/doc/node-are-we-there-yet/README.md.gz
+/usr/share/doc/node-are-we-there-yet/changelog.Debian.gz
+/usr/share/doc/node-are-we-there-yet/copyright
+/usr/share/nodejs
+/usr/share/nodejs/are-we-there-yet
+/usr/share/nodejs/are-we-there-yet/index.js
+/usr/share/nodejs/are-we-there-yet/package.json
+/usr/share/nodejs/are-we-there-yet/tracker-base.js
+/usr/share/nodejs/are-we-there-yet/tracker-group.js
+/usr/share/nodejs/are-we-there-yet/tracker-stream.js
+/usr/share/nodejs/are-we-there-yet/tracker.js

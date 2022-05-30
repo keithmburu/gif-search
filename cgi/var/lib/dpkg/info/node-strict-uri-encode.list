@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/nodejs
+/usr/lib/nodejs/strict-uri-encode
+/usr/lib/nodejs/strict-uri-encode/index.js
+/usr/lib/nodejs/strict-uri-encode/package.json
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-strict-uri-encode
+/usr/share/doc/node-strict-uri-encode/changelog.Debian.gz
+/usr/share/doc/node-strict-uri-encode/copyright
+/usr/share/doc/node-strict-uri-encode/readme.md

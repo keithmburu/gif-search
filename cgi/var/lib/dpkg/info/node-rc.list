@@ -1,0 +1,16 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-rc
+/usr/share/doc/node-rc/README.md.gz
+/usr/share/doc/node-rc/changelog.Debian.gz
+/usr/share/doc/node-rc/copyright
+/usr/share/nodejs
+/usr/share/nodejs/rc
+/usr/share/nodejs/rc/browser.js
+/usr/share/nodejs/rc/cli.js
+/usr/share/nodejs/rc/index.js
+/usr/share/nodejs/rc/lib
+/usr/share/nodejs/rc/lib/utils.js
+/usr/share/nodejs/rc/package.json

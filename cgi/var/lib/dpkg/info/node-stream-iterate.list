@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/nodejs
+/usr/lib/nodejs/stream-iterate
+/usr/lib/nodejs/stream-iterate/index.js
+/usr/lib/nodejs/stream-iterate/package.json
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-stream-iterate
+/usr/share/doc/node-stream-iterate/README.md
+/usr/share/doc/node-stream-iterate/changelog.Debian.gz
+/usr/share/doc/node-stream-iterate/copyright

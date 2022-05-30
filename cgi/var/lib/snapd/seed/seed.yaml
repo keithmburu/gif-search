@@ -1,0 +1,13 @@
+snaps:
+  -
+    name: core18
+    channel: stable
+    file: core18_2128.snap
+  -
+    name: snapd
+    channel: stable
+    file: snapd_12704.snap
+  -
+    name: lxd
+    channel: 4.0/stable/ubuntu-20.04
+    file: lxd_21029.snap

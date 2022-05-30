@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/nodejs
+/usr/lib/nodejs/shebang-regex
+/usr/lib/nodejs/shebang-regex/index.js
+/usr/lib/nodejs/shebang-regex/package.json
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-shebang-regex
+/usr/share/doc/node-shebang-regex/changelog.Debian.gz
+/usr/share/doc/node-shebang-regex/copyright
+/usr/share/doc/node-shebang-regex/readme.md

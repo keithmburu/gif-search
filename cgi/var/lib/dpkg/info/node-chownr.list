@@ -1,0 +1,12 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-chownr
+/usr/share/doc/node-chownr/README.md
+/usr/share/doc/node-chownr/changelog.Debian.gz
+/usr/share/doc/node-chownr/copyright
+/usr/share/nodejs
+/usr/share/nodejs/chownr
+/usr/share/nodejs/chownr/chownr.js
+/usr/share/nodejs/chownr/package.json

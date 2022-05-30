@@ -1,0 +1,45 @@
+suite: focal
+component: restricted
+arch: amd64
+
+
+name: nvidia-340
+version: 340.108-0ubuntu2
+commands: create-uvm-dev-node,nvidia-bug-report.sh,nvidia-cuda-mps-control,nvidia-cuda-mps-server,nvidia-debugdump,nvidia-persistenced,nvidia-smi,nvidia-xconfig,start-nvidia-persistenced,stop-nvidia-persistenced
+
+name: nvidia-compute-utils-390
+version: 390.132-0ubuntu2
+commands: nvidia-cuda-mps-control,nvidia-cuda-mps-server,nvidia-persistenced
+
+name: nvidia-compute-utils-435
+version: 435.21-0ubuntu7
+commands: nvidia-cuda-mps-control,nvidia-cuda-mps-server,nvidia-persistenced
+
+name: nvidia-compute-utils-440
+version: 440.82+really.440.64-0ubuntu6
+commands: nvidia-cuda-mps-control,nvidia-cuda-mps-server,nvidia-persistenced
+
+name: nvidia-kernel-common-390
+version: 390.132-0ubuntu2
+commands: create-uvm-dev-node
+
+name: nvidia-kernel-common-435
+version: 435.21-0ubuntu7
+commands: create-uvm-dev-node
+
+name: nvidia-kernel-common-440
+version: 440.82+really.440.64-0ubuntu6
+commands: ub-device-create
+
+name: nvidia-utils-390
+version: 390.132-0ubuntu2
+commands: nvidia-bug-report.sh,nvidia-debugdump,nvidia-smi,nvidia-uninstall,nvidia-xconfig
+
+name: nvidia-utils-435
+version: 435.21-0ubuntu7
+commands: nvidia-bug-report.sh,nvidia-debugdump,nvidia-smi,nvidia-xconfig
+
+name: nvidia-utils-440
+version: 440.82+really.440.64-0ubuntu6
+commands: nvidia-bug-report.sh,nvidia-debugdump,nvidia-smi,nvidia-xconfig
+

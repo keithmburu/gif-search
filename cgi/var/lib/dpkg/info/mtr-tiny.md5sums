@@ -1,0 +1,7 @@
+ac6dd5a220e64f59aa500124d783a463  usr/bin/mtr
+f3e37b7c24d2630e7d442f685a528a66  usr/bin/mtr-packet
+ab0e2bb8416e79e1a5217042006b1f4d  usr/share/bash-completion/completions/mtr
+fbcd172ee8ac1dfea8c46248be1e10bf  usr/share/doc/mtr-tiny/changelog.Debian.gz
+a2fbad05d4c805243f7e43fb96a680e5  usr/share/doc/mtr-tiny/copyright
+79c5ec4d5211d69140722c1e81084f5f  usr/share/man/man8/mtr-packet.8.gz
+51cb74aad9f515c49d0e521e6975073c  usr/share/man/man8/mtr.8.gz

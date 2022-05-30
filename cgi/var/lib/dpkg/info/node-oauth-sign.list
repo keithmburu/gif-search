@@ -1,0 +1,12 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-oauth-sign
+/usr/share/doc/node-oauth-sign/README.md
+/usr/share/doc/node-oauth-sign/changelog.Debian.gz
+/usr/share/doc/node-oauth-sign/copyright
+/usr/share/nodejs
+/usr/share/nodejs/oauth-sign
+/usr/share/nodejs/oauth-sign/index.js
+/usr/share/nodejs/oauth-sign/package.json

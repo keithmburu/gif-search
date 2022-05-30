@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/nodejs
+/usr/lib/nodejs/osenv
+/usr/lib/nodejs/osenv/osenv.js
+/usr/lib/nodejs/osenv/package.json
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-osenv
+/usr/share/doc/node-osenv/README.md
+/usr/share/doc/node-osenv/changelog.Debian.gz
+/usr/share/doc/node-osenv/copyright

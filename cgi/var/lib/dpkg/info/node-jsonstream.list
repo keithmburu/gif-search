@@ -1,0 +1,17 @@
+/.
+/usr
+/usr/bin
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-jsonstream
+/usr/share/doc/node-jsonstream/changelog.Debian.gz
+/usr/share/doc/node-jsonstream/copyright
+/usr/share/doc/node-jsonstream/examples
+/usr/share/doc/node-jsonstream/examples/all_docs.js
+/usr/share/doc/node-jsonstream/readme.markdown.gz
+/usr/share/nodejs
+/usr/share/nodejs/JSONStream
+/usr/share/nodejs/JSONStream/bin.js
+/usr/share/nodejs/JSONStream/index.js
+/usr/share/nodejs/JSONStream/package.json
+/usr/bin/JSONStream

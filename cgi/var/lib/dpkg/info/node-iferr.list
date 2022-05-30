@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/nodejs
+/usr/lib/nodejs/iferr
+/usr/lib/nodejs/iferr/iferr.js
+/usr/lib/nodejs/iferr/package.json
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-iferr
+/usr/share/doc/node-iferr/README.md
+/usr/share/doc/node-iferr/changelog.Debian.gz
+/usr/share/doc/node-iferr/copyright

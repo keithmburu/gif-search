@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/nodejs
+/usr/lib/nodejs/pseudomap
+/usr/lib/nodejs/pseudomap/map.js
+/usr/lib/nodejs/pseudomap/package.json
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-pseudomap
+/usr/share/doc/node-pseudomap/README.md
+/usr/share/doc/node-pseudomap/changelog.Debian.gz
+/usr/share/doc/node-pseudomap/copyright

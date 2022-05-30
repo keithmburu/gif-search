@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/nodejs
+/usr/lib/nodejs/proto-list
+/usr/lib/nodejs/proto-list/package.json
+/usr/lib/nodejs/proto-list/proto-list.js
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-proto-list
+/usr/share/doc/node-proto-list/README.md
+/usr/share/doc/node-proto-list/changelog.Debian.gz
+/usr/share/doc/node-proto-list/copyright

@@ -1,0 +1,11 @@
+952f10d3128e10b3c07f2bbfe22bc6e8  usr/share/doc/node-tough-cookie/README.md.gz
+f5408f4a25ae7f907c82c1363f53de3d  usr/share/doc/node-tough-cookie/changelog.Debian.gz
+8c268795a68bb52006ea82b644e302fe  usr/share/doc/node-tough-cookie/copyright
+c2e24ba6412b3cc0e29ced71846deed9  usr/share/nodejs/tough-cookie/lib/cookie.js
+8375fca65218785c0dbebfc20bd50fa2  usr/share/nodejs/tough-cookie/lib/memstore.js
+8ef4b4a39dcaa8d84894d1a3b325565d  usr/share/nodejs/tough-cookie/lib/pathMatch.js
+f45210a61831992857e540985cb4de17  usr/share/nodejs/tough-cookie/lib/permuteDomain.js
+7c0d6e0ac48eb3cff5b516d139b850f4  usr/share/nodejs/tough-cookie/lib/pubsuffix-psl.js
+5a442a244ee5ff6740784d4e197339bd  usr/share/nodejs/tough-cookie/lib/store.js
+dad702848153058d992350b371c75dc5  usr/share/nodejs/tough-cookie/lib/version.js
+af9fac5be8e77da1e6de21f4e4186538  usr/share/nodejs/tough-cookie/package.json

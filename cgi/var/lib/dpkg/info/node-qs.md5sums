@@ -1,0 +1,11 @@
+8ddf6dad9aed3f5c380c825b63ea706f  usr/share/doc/node-qs/README.md.gz
+d76341583e718c5f3b4c1a314f19ecee  usr/share/doc/node-qs/changelog.Debian.gz
+f8e42b1d4c2d3782375f2e4305d61b09  usr/share/doc/node-qs/copyright
+b9eeb47387b52df2cd8a3f6f60183940  usr/share/nodejs/qs/component.json
+6c0c643b1cd39416ec1ccd87d92b2908  usr/share/nodejs/qs/dist/qs.js
+471994f7be49b41d55ad181f853fa967  usr/share/nodejs/qs/lib/formats.js
+1459a9952f6b500d24818bb6e3e37368  usr/share/nodejs/qs/lib/index.js
+951a19cbb25328b944d294e03f7bf723  usr/share/nodejs/qs/lib/parse.js
+62c7c2b67f5c4407cbae31c526a9a61f  usr/share/nodejs/qs/lib/stringify.js
+bab3c1dc529bde47aed43e2665d30713  usr/share/nodejs/qs/lib/utils.js
+cd62bdbf09469c65165aabc4e32aa295  usr/share/nodejs/qs/package.json

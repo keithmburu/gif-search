@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/nodejs
+/usr/lib/nodejs/process-nextick-args
+/usr/lib/nodejs/process-nextick-args/index.js
+/usr/lib/nodejs/process-nextick-args/package.json
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-process-nextick-args
+/usr/share/doc/node-process-nextick-args/changelog.Debian.gz
+/usr/share/doc/node-process-nextick-args/copyright
+/usr/share/doc/node-process-nextick-args/readme.md

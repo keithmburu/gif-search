@@ -1,0 +1,12 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-timed-out
+/usr/share/doc/node-timed-out/changelog.Debian.gz
+/usr/share/doc/node-timed-out/copyright
+/usr/share/doc/node-timed-out/readme.md
+/usr/share/nodejs
+/usr/share/nodejs/timed-out
+/usr/share/nodejs/timed-out/index.js
+/usr/share/nodejs/timed-out/package.json

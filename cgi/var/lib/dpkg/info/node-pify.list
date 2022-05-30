@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/nodejs
+/usr/lib/nodejs/pify
+/usr/lib/nodejs/pify/index.js
+/usr/lib/nodejs/pify/package.json
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-pify
+/usr/share/doc/node-pify/changelog.Debian.gz
+/usr/share/doc/node-pify/copyright
+/usr/share/doc/node-pify/readme.md

@@ -1,0 +1,16 @@
+/.
+/usr
+/usr/lib
+/usr/lib/nodejs
+/usr/lib/nodejs/jsonify
+/usr/lib/nodejs/jsonify/index.js
+/usr/lib/nodejs/jsonify/lib
+/usr/lib/nodejs/jsonify/lib/parse.js
+/usr/lib/nodejs/jsonify/lib/stringify.js
+/usr/lib/nodejs/jsonify/package.json
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-jsonify
+/usr/share/doc/node-jsonify/README.markdown
+/usr/share/doc/node-jsonify/changelog.Debian.gz
+/usr/share/doc/node-jsonify/copyright

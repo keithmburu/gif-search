@@ -1,0 +1,6 @@
+594750c2d4afd58e495a5301f53ad357  usr/share/doc/node-encoding/README.md
+86e5ef7aaeb4bc41ee98e08e82761466  usr/share/doc/node-encoding/changelog.Debian.gz
+a76ebb66543438d855f5fd5cc0700a85  usr/share/doc/node-encoding/copyright
+0f6904ef0829d021aaf91ff51da8d597  usr/share/nodejs/encoding/lib/encoding.js
+0483278a83b082a9fc5b60d753456c84  usr/share/nodejs/encoding/lib/iconv-loader.js
+5ba181e6ea880461f7a87bd2de601bdd  usr/share/nodejs/encoding/package.json

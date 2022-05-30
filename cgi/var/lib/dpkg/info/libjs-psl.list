@@ -1,0 +1,14 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/libjs-psl
+/usr/share/doc/libjs-psl/README.md.gz
+/usr/share/doc/libjs-psl/changelog.Debian.gz
+/usr/share/doc/libjs-psl/copyright
+/usr/share/doc/libjs-psl/examples
+/usr/share/doc/libjs-psl/examples/index.html
+/usr/share/javascript
+/usr/share/javascript/psl
+/usr/share/javascript/psl/psl.js
+/usr/share/javascript/psl/psl.min.js

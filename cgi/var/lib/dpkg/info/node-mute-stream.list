@@ -1,0 +1,12 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-mute-stream
+/usr/share/doc/node-mute-stream/README.md
+/usr/share/doc/node-mute-stream/changelog.Debian.gz
+/usr/share/doc/node-mute-stream/copyright
+/usr/share/nodejs
+/usr/share/nodejs/mute-stream
+/usr/share/nodejs/mute-stream/mute.js
+/usr/share/nodejs/mute-stream/package.json

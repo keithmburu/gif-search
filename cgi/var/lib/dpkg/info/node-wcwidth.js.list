@@ -1,0 +1,14 @@
+/.
+/usr
+/usr/lib
+/usr/lib/nodejs
+/usr/lib/nodejs/wcwidth.js
+/usr/lib/nodejs/wcwidth.js/combining.js
+/usr/lib/nodejs/wcwidth.js/index.js
+/usr/lib/nodejs/wcwidth.js/package.json
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-wcwidth.js
+/usr/share/doc/node-wcwidth.js/README.md.gz
+/usr/share/doc/node-wcwidth.js/changelog.Debian.gz
+/usr/share/doc/node-wcwidth.js/copyright

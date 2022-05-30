@@ -1,0 +1,15 @@
+/.
+/usr
+/usr/lib
+/usr/lib/nodejs
+/usr/lib/nodejs/registry-auth-token
+/usr/lib/nodejs/registry-auth-token/base64.js
+/usr/lib/nodejs/registry-auth-token/index.js
+/usr/lib/nodejs/registry-auth-token/package.json
+/usr/lib/nodejs/registry-auth-token/registry-url.js
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-registry-auth-token
+/usr/share/doc/node-registry-auth-token/README.md
+/usr/share/doc/node-registry-auth-token/changelog.Debian.gz
+/usr/share/doc/node-registry-auth-token/copyright

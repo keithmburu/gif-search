@@ -1,0 +1,14 @@
+/.
+/usr
+/usr/lib
+/usr/lib/nodejs
+/usr/lib/nodejs/import-lazy
+/usr/lib/nodejs/import-lazy/index.js
+/usr/lib/nodejs/import-lazy/package.json
+/usr/lib/nodejs/import-lazy/readme.md
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-import-lazy
+/usr/share/doc/node-import-lazy/changelog.Debian.gz
+/usr/share/doc/node-import-lazy/copyright
+/usr/share/doc/node-import-lazy/readme.md

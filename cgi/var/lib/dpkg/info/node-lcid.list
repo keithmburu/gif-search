@@ -1,0 +1,14 @@
+/.
+/usr
+/usr/lib
+/usr/lib/nodejs
+/usr/lib/nodejs/lcid
+/usr/lib/nodejs/lcid/index.js
+/usr/lib/nodejs/lcid/lcid.json
+/usr/lib/nodejs/lcid/package.json
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-lcid
+/usr/share/doc/node-lcid/changelog.Debian.gz
+/usr/share/doc/node-lcid/copyright
+/usr/share/doc/node-lcid/readme.md

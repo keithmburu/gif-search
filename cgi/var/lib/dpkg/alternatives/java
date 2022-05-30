@@ -1,0 +1,12 @@
+auto
+/usr/bin/java
+java.1.gz
+/usr/share/man/man1/java.1.gz
+
+/usr/lib/jvm/java-13-openjdk-amd64/bin/java
+1311
+/usr/lib/jvm/java-13-openjdk-amd64/man/man1/java.1.gz
+/usr/lib/jvm/java-17-openjdk-amd64/bin/java
+1711
+/usr/lib/jvm/java-17-openjdk-amd64/man/man1/java.1.gz
+

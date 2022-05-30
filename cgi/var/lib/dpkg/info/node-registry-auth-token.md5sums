@@ -1,0 +1,7 @@
+7a307c15cf41e2e2ec24354944455003  usr/lib/nodejs/registry-auth-token/base64.js
+56d56cee56e050e4734e1160c4e9e778  usr/lib/nodejs/registry-auth-token/index.js
+ef32115f6d68d6e400e81562c19b6d91  usr/lib/nodejs/registry-auth-token/package.json
+83aa45991788df37bef9055b312f30d9  usr/lib/nodejs/registry-auth-token/registry-url.js
+c1dcc324e6b73dd79c24c58f94516e58  usr/share/doc/node-registry-auth-token/README.md
+ca30c1c0477839abdf12c1e2f05bf7cb  usr/share/doc/node-registry-auth-token/changelog.Debian.gz
+a8afed91466e15d1f357852c479a2e31  usr/share/doc/node-registry-auth-token/copyright

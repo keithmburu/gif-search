@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-aws4
+/usr/share/doc/node-aws4/README.md.gz
+/usr/share/doc/node-aws4/changelog.Debian.gz
+/usr/share/doc/node-aws4/copyright
+/usr/share/nodejs
+/usr/share/nodejs/aws4
+/usr/share/nodejs/aws4/aws4.js
+/usr/share/nodejs/aws4/lru.js
+/usr/share/nodejs/aws4/package.json

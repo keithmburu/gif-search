@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-supports-color
+/usr/share/doc/node-supports-color/changelog.Debian.gz
+/usr/share/doc/node-supports-color/copyright
+/usr/share/doc/node-supports-color/readme.md
+/usr/share/nodejs
+/usr/share/nodejs/supports-color
+/usr/share/nodejs/supports-color/browser.js
+/usr/share/nodejs/supports-color/index.js
+/usr/share/nodejs/supports-color/package.json

@@ -1,0 +1,7 @@
+cefca340fe9dbf1aab57b6f170000702  usr/lib/nodejs/jsonify/index.js
+2d2f09c7e21278f2a1dff97742d6f90c  usr/lib/nodejs/jsonify/lib/parse.js
+48a8b8fed3af85977d074413d0efa531  usr/lib/nodejs/jsonify/lib/stringify.js
+4d6afd81aded57a3818e2bc4327c8868  usr/lib/nodejs/jsonify/package.json
+7881afe5c3f945bb8d29f4a626704353  usr/share/doc/node-jsonify/README.markdown
+9af0c716ec56e65b6195b5c113010414  usr/share/doc/node-jsonify/changelog.Debian.gz
+bb248aeff09a6906c63b0cf32b422dd8  usr/share/doc/node-jsonify/copyright

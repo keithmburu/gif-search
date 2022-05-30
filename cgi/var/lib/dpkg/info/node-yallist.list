@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-yallist
+/usr/share/doc/node-yallist/README.md.gz
+/usr/share/doc/node-yallist/changelog.Debian.gz
+/usr/share/doc/node-yallist/copyright
+/usr/share/nodejs
+/usr/share/nodejs/yallist
+/usr/share/nodejs/yallist/iterator.js
+/usr/share/nodejs/yallist/package.json
+/usr/share/nodejs/yallist/yallist.js

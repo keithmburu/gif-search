@@ -1,0 +1,12 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-spdx-exceptions
+/usr/share/doc/node-spdx-exceptions/README.md
+/usr/share/doc/node-spdx-exceptions/changelog.Debian.gz
+/usr/share/doc/node-spdx-exceptions/copyright
+/usr/share/nodejs
+/usr/share/nodejs/spdx-exceptions
+/usr/share/nodejs/spdx-exceptions/index.json
+/usr/share/nodejs/spdx-exceptions/package.json

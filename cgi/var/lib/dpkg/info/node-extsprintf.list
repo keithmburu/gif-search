@@ -1,0 +1,14 @@
+/.
+/usr
+/usr/lib
+/usr/lib/nodejs
+/usr/lib/nodejs/extsprintf
+/usr/lib/nodejs/extsprintf/lib
+/usr/lib/nodejs/extsprintf/lib/extsprintf.js
+/usr/lib/nodejs/extsprintf/package.json
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-extsprintf
+/usr/share/doc/node-extsprintf/README.md
+/usr/share/doc/node-extsprintf/changelog.Debian.gz
+/usr/share/doc/node-extsprintf/copyright

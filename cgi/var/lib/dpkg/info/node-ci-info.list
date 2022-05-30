@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-ci-info
+/usr/share/doc/node-ci-info/README.md.gz
+/usr/share/doc/node-ci-info/changelog.Debian.gz
+/usr/share/doc/node-ci-info/copyright
+/usr/share/nodejs
+/usr/share/nodejs/ci-info
+/usr/share/nodejs/ci-info/index.js
+/usr/share/nodejs/ci-info/package.json
+/usr/share/nodejs/ci-info/vendors.json

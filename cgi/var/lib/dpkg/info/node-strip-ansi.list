@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-strip-ansi
+/usr/share/doc/node-strip-ansi/changelog.Debian.gz
+/usr/share/doc/node-strip-ansi/copyright
+/usr/share/doc/node-strip-ansi/readme.md
+/usr/share/nodejs
+/usr/share/nodejs/strip-ansi
+/usr/share/nodejs/strip-ansi/index.d.ts
+/usr/share/nodejs/strip-ansi/index.js
+/usr/share/nodejs/strip-ansi/package.json

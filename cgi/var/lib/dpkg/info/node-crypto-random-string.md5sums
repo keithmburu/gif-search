@@ -1,0 +1,5 @@
+6450648a342648077a779431b44331cd  usr/lib/nodejs/crypto-random-string/index.js
+094fb6d15075611f19990050ebd30f3b  usr/lib/nodejs/crypto-random-string/package.json
+ff772bfb71515640910aefba94d1582d  usr/share/doc/node-crypto-random-string/changelog.Debian.gz
+7c0197815f4448c0ded56eeb4060be0f  usr/share/doc/node-crypto-random-string/copyright
+a8afea8f4e3ff2183d9047a99508cf53  usr/share/doc/node-crypto-random-string/readme.md

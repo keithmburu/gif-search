@@ -1,0 +1,13 @@
+9898a94336fe58ff2335db04330a6b74  usr/share/doc/node-isurl/README.md
+7cd70aa73142cb285e2fa9641b1b51de  usr/share/doc/node-isurl/changelog.Debian.gz
+9ba7663a5f8672749071265aafb0963e  usr/share/doc/node-isurl/copyright
+f784e0100545cd3626a7cb41b4e71e38  usr/share/nodejs/isurl/lib-es5/index.js
+b09e9800ab0aac1bc8a830cd61b9df4d  usr/share/nodejs/isurl/lib-es5/index.js.map
+ec3e2df8106462d6b802e25a289ec7ea  usr/share/nodejs/isurl/lib-es5/props.js
+2f50b6c50b5f39da98de5ceed597a71e  usr/share/nodejs/isurl/lib-es5/props.js.map
+51f171f02aadeb4b0b6ed3634e148e14  usr/share/nodejs/isurl/lib/index.js
+89837ea7320309d3e8bd72fcc5fd6e0d  usr/share/nodejs/isurl/lib/props.js
+81214e84847a1c46f91e038d0a73d767  usr/share/nodejs/isurl/node_modules/is-urlsearchparams/lib/index.js
+389185fee1f8c48b561dc2fb1903c3cf  usr/share/nodejs/isurl/node_modules/is-urlsearchparams/lib/props.js
+94093ce98f92d2ff7e4aaa5652dbff3d  usr/share/nodejs/isurl/node_modules/is-urlsearchparams/package.json
+8fc2c1132ae41750743b6677873c3812  usr/share/nodejs/isurl/package.json

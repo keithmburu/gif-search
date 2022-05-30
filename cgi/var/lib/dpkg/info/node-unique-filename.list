@@ -1,0 +1,16 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-unique-filename
+/usr/share/doc/node-unique-filename/README.md
+/usr/share/doc/node-unique-filename/changelog.Debian.gz
+/usr/share/doc/node-unique-filename/copyright
+/usr/share/nodejs
+/usr/share/nodejs/unique-filename
+/usr/share/nodejs/unique-filename/index.js
+/usr/share/nodejs/unique-filename/node_modules
+/usr/share/nodejs/unique-filename/node_modules/unique-slug
+/usr/share/nodejs/unique-filename/node_modules/unique-slug/index.js
+/usr/share/nodejs/unique-filename/node_modules/unique-slug/package.json
+/usr/share/nodejs/unique-filename/package.json

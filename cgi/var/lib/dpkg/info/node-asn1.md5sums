@@ -1,0 +1,10 @@
+45b0a3382f6f3f884e96a1d40fb7c4af  usr/share/doc/node-asn1/README.md
+a13593547b21fd64ed1ae3eeb558fd6d  usr/share/doc/node-asn1/changelog.Debian.gz
+f793c9502f98dee35e989307539edd2a  usr/share/doc/node-asn1/copyright
+8fa52f6b0f827708e3bb0bc5b5b43f99  usr/share/nodejs/asn1/lib/ber/errors.js
+0fbf9acd91efc8564a81c8d0f6586a91  usr/share/nodejs/asn1/lib/ber/index.js
+d1fd8902012dd3accbec758d69b9f4d6  usr/share/nodejs/asn1/lib/ber/reader.js
+b0e447ec6a2859ce419b121cffd44f31  usr/share/nodejs/asn1/lib/ber/types.js
+98fe8dc77d7fea227a44b283acf9ab36  usr/share/nodejs/asn1/lib/ber/writer.js
+222a36d29951129dd37356ea7e3e8e1e  usr/share/nodejs/asn1/lib/index.js
+6f8470907f837fcf7e20a6f895cce33c  usr/share/nodejs/asn1/package.json

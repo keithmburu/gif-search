@@ -1,0 +1,14 @@
+/.
+/usr
+/usr/lib
+/usr/lib/nodejs
+/usr/lib/nodejs/delegates
+/usr/lib/nodejs/delegates/index.js
+/usr/lib/nodejs/delegates/package.json
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-delegates
+/usr/share/doc/node-delegates/Readme.md
+/usr/share/doc/node-delegates/changelog.Debian.gz
+/usr/share/doc/node-delegates/copyright
+/usr/share/doc/node-delegates/History.md.gz

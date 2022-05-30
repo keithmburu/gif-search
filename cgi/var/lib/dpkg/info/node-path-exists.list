@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-path-exists
+/usr/share/doc/node-path-exists/changelog.Debian.gz
+/usr/share/doc/node-path-exists/copyright
+/usr/share/doc/node-path-exists/readme.md
+/usr/share/nodejs
+/usr/share/nodejs/path-exists
+/usr/share/nodejs/path-exists/index.d.ts
+/usr/share/nodejs/path-exists/index.js
+/usr/share/nodejs/path-exists/package.json

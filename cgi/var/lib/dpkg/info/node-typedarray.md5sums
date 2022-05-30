@@ -1,0 +1,7 @@
+13019595b9afcd96a4efb3ad3cbe749d  usr/lib/nodejs/typedarray/index.js
+252085c44894a63cd58d8c343f2ba589  usr/lib/nodejs/typedarray/package.json
+48865cb61107d2ff947c178f90dc7205  usr/share/doc/node-typedarray/README.Debian
+5e551ebcc21157be1633e65aedb56f5f  usr/share/doc/node-typedarray/changelog.Debian.gz
+334dbdb8c3b2919f4ca70c7628344a6b  usr/share/doc/node-typedarray/copyright
+84fc77722c07bf0f8e074c3ec4ced3f8  usr/share/doc/node-typedarray/examples/tarray.js
+2f425902cc9065bda9fbc1ff6635097b  usr/share/doc/node-typedarray/readme.markdown

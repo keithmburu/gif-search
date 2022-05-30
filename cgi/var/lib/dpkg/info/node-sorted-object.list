@@ -1,0 +1,14 @@
+/.
+/usr
+/usr/lib
+/usr/lib/nodejs
+/usr/lib/nodejs/sorted-object
+/usr/lib/nodejs/sorted-object/lib
+/usr/lib/nodejs/sorted-object/lib/sorted-object.js
+/usr/lib/nodejs/sorted-object/package.json
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-sorted-object
+/usr/share/doc/node-sorted-object/README.md
+/usr/share/doc/node-sorted-object/changelog.Debian.gz
+/usr/share/doc/node-sorted-object/copyright

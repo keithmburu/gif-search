@@ -1,0 +1,9 @@
+auto
+/usr/bin/jlink
+jlink.1.gz
+/usr/share/man/man1/jlink.1.gz
+
+/usr/lib/jvm/java-17-openjdk-amd64/bin/jlink
+1711
+/usr/lib/jvm/java-17-openjdk-amd64/man/man1/jlink.1.gz
+

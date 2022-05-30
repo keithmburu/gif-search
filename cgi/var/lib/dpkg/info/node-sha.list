@@ -1,0 +1,12 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-sha
+/usr/share/doc/node-sha/README.md
+/usr/share/doc/node-sha/changelog.Debian.gz
+/usr/share/doc/node-sha/copyright
+/usr/share/nodejs
+/usr/share/nodejs/sha
+/usr/share/nodejs/sha/index.js
+/usr/share/nodejs/sha/package.json

@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/nodejs
+/usr/lib/nodejs/text-table
+/usr/lib/nodejs/text-table/index.js
+/usr/lib/nodejs/text-table/package.json
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-text-table
+/usr/share/doc/node-text-table/changelog.Debian.gz
+/usr/share/doc/node-text-table/copyright
+/usr/share/doc/node-text-table/readme.markdown

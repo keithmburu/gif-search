@@ -1,0 +1,16 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-npm-bundled
+/usr/share/doc/node-npm-bundled/README.md
+/usr/share/doc/node-npm-bundled/changelog.Debian.gz
+/usr/share/doc/node-npm-bundled/copyright
+/usr/share/nodejs
+/usr/share/nodejs/npm-bundled
+/usr/share/nodejs/npm-bundled/index.js
+/usr/share/nodejs/npm-bundled/node_modules
+/usr/share/nodejs/npm-bundled/node_modules/npm-normalize-package-bin
+/usr/share/nodejs/npm-bundled/node_modules/npm-normalize-package-bin/index.js
+/usr/share/nodejs/npm-bundled/node_modules/npm-normalize-package-bin/package.json
+/usr/share/nodejs/npm-bundled/package.json

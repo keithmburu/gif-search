@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/nodejs
+/usr/lib/nodejs/p-timeout
+/usr/lib/nodejs/p-timeout/index.js
+/usr/lib/nodejs/p-timeout/package.json
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-p-timeout
+/usr/share/doc/node-p-timeout/changelog.Debian.gz
+/usr/share/doc/node-p-timeout/copyright
+/usr/share/doc/node-p-timeout/readme.md

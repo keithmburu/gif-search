@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-locate-path
+/usr/share/doc/node-locate-path/changelog.Debian.gz
+/usr/share/doc/node-locate-path/copyright
+/usr/share/doc/node-locate-path/readme.md
+/usr/share/nodejs
+/usr/share/nodejs/locate-path
+/usr/share/nodejs/locate-path/index.d.ts
+/usr/share/nodejs/locate-path/index.js
+/usr/share/nodejs/locate-path/package.json

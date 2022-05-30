@@ -1,0 +1,16 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-jsonparse
+/usr/share/doc/node-jsonparse/changelog.Debian.gz
+/usr/share/doc/node-jsonparse/copyright
+/usr/share/doc/node-jsonparse/examples
+/usr/share/doc/node-jsonparse/examples/twitterfeed.js
+/usr/share/lintian
+/usr/share/lintian/overrides
+/usr/share/lintian/overrides/node-jsonparse
+/usr/share/nodejs
+/usr/share/nodejs/jsonparse
+/usr/share/nodejs/jsonparse/jsonparse.js
+/usr/share/nodejs/jsonparse/package.json

@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/nodejs
+/usr/lib/nodejs/term-size
+/usr/lib/nodejs/term-size/index.js
+/usr/lib/nodejs/term-size/package.json
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-term-size
+/usr/share/doc/node-term-size/changelog.Debian.gz
+/usr/share/doc/node-term-size/copyright
+/usr/share/doc/node-term-size/readme.md

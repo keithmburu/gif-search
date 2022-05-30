@@ -1,0 +1,12 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-promise-retry
+/usr/share/doc/node-promise-retry/README.md
+/usr/share/doc/node-promise-retry/changelog.Debian.gz
+/usr/share/doc/node-promise-retry/copyright
+/usr/share/nodejs
+/usr/share/nodejs/promise-retry
+/usr/share/nodejs/promise-retry/index.js
+/usr/share/nodejs/promise-retry/package.json

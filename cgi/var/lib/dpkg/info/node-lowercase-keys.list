@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-lowercase-keys
+/usr/share/doc/node-lowercase-keys/changelog.Debian.gz
+/usr/share/doc/node-lowercase-keys/copyright
+/usr/share/doc/node-lowercase-keys/readme.md
+/usr/share/nodejs
+/usr/share/nodejs/lowercase-keys
+/usr/share/nodejs/lowercase-keys/index.d.ts
+/usr/share/nodejs/lowercase-keys/index.js
+/usr/share/nodejs/lowercase-keys/package.json

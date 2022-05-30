@@ -1,0 +1,15 @@
+/.
+/usr
+/usr/lib
+/usr/lib/nodejs
+/usr/lib/nodejs/performance-now
+/usr/lib/nodejs/performance-now/lib
+/usr/lib/nodejs/performance-now/lib/performance-now.js
+/usr/lib/nodejs/performance-now/lib/performance-now.js.map
+/usr/lib/nodejs/performance-now/package.json
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-performance-now
+/usr/share/doc/node-performance-now/README.md
+/usr/share/doc/node-performance-now/changelog.Debian.gz
+/usr/share/doc/node-performance-now/copyright

@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/nodejs
+/usr/lib/nodejs/crypto-random-string
+/usr/lib/nodejs/crypto-random-string/index.js
+/usr/lib/nodejs/crypto-random-string/package.json
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-crypto-random-string
+/usr/share/doc/node-crypto-random-string/changelog.Debian.gz
+/usr/share/doc/node-crypto-random-string/copyright
+/usr/share/doc/node-crypto-random-string/readme.md

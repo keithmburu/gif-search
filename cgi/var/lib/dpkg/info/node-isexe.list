@@ -1,0 +1,15 @@
+/.
+/usr
+/usr/lib
+/usr/lib/nodejs
+/usr/lib/nodejs/isexe
+/usr/lib/nodejs/isexe/index.js
+/usr/lib/nodejs/isexe/mode.js
+/usr/lib/nodejs/isexe/package.json
+/usr/lib/nodejs/isexe/windows.js
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-isexe
+/usr/share/doc/node-isexe/README.md
+/usr/share/doc/node-isexe/changelog.Debian.gz
+/usr/share/doc/node-isexe/copyright

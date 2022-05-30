@@ -1,0 +1,15 @@
+4535c1818df5f8ae3eef1974ad35ddbc  usr/share/doc/node-normalize-package-data/README.md.gz
+f5e8a1b006e85bf404b3073ad9b3e2d5  usr/share/doc/node-normalize-package-data/changelog.Debian.gz
+fd2eb390401ea1b947fd59a433c03e87  usr/share/doc/node-normalize-package-data/copyright
+5c523c4ab369586f32d49c6caed99c2e  usr/share/nodejs/normalize-package-data/lib/extract_description.js
+cd23b87cc699461c96200df9bcb49d4c  usr/share/nodejs/normalize-package-data/lib/fixer.js
+3b87184568b3ba806d38233c904ac250  usr/share/nodejs/normalize-package-data/lib/make_warning.js
+d7c8d95c23842d8eda85fa2ff5ff5e7d  usr/share/nodejs/normalize-package-data/lib/normalize.js
+7d5529faadfd4a28c0d3064d404e902e  usr/share/nodejs/normalize-package-data/lib/safe_format.js
+8598638c133c563f5322eba9c17be4fc  usr/share/nodejs/normalize-package-data/lib/typos.json
+20e768e3962566757a16c67d7ad22991  usr/share/nodejs/normalize-package-data/lib/warning_messages.json
+8241e8930240e08af299309861fc0209  usr/share/nodejs/normalize-package-data/node_modules/hosted-git-info/git-host-info.js
+9b66b62ad171949bf36bc57a7b7abc27  usr/share/nodejs/normalize-package-data/node_modules/hosted-git-info/git-host.js
+94ecefc8a3be6fafd839a528805a9f9c  usr/share/nodejs/normalize-package-data/node_modules/hosted-git-info/index.js
+5424a4287ff903862e14e840066b72df  usr/share/nodejs/normalize-package-data/node_modules/hosted-git-info/package.json
+ef1b0b1c2f14d0c0b61b193ead64bc5b  usr/share/nodejs/normalize-package-data/package.json

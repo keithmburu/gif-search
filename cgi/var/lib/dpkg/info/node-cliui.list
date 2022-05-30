@@ -1,0 +1,12 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-cliui
+/usr/share/doc/node-cliui/README.md
+/usr/share/doc/node-cliui/changelog.Debian.gz
+/usr/share/doc/node-cliui/copyright
+/usr/share/nodejs
+/usr/share/nodejs/cliui
+/usr/share/nodejs/cliui/index.js
+/usr/share/nodejs/cliui/package.json

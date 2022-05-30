@@ -1,0 +1,17 @@
+/.
+/usr
+/usr/bin
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-opener
+/usr/share/doc/node-opener/README.md
+/usr/share/doc/node-opener/changelog.Debian.gz
+/usr/share/doc/node-opener/copyright
+/usr/share/nodejs
+/usr/share/nodejs/opener
+/usr/share/nodejs/opener/bin
+/usr/share/nodejs/opener/bin/opener-bin.js
+/usr/share/nodejs/opener/lib
+/usr/share/nodejs/opener/lib/opener.js
+/usr/share/nodejs/opener/package.json
+/usr/bin/opener

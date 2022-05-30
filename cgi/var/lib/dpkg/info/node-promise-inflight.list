@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/nodejs
+/usr/lib/nodejs/promise-inflight
+/usr/lib/nodejs/promise-inflight/inflight.js
+/usr/lib/nodejs/promise-inflight/package.json
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-promise-inflight
+/usr/share/doc/node-promise-inflight/README.md
+/usr/share/doc/node-promise-inflight/changelog.Debian.gz
+/usr/share/doc/node-promise-inflight/copyright

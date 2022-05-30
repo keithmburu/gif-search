@@ -1,0 +1,49 @@
+suite: focal-backports
+component: main
+arch: amd64
+
+
+name: debhelper
+version: 13.5.2ubuntu1~bpo20.04.1
+commands: dh,dh_assistant,dh_auto_build,dh_auto_clean,dh_auto_configure,dh_auto_install,dh_auto_test,dh_bugfiles,dh_builddeb,dh_clean,dh_compress,dh_dwz,dh_fixperms,dh_gencontrol,dh_icons,dh_install,dh_installalternatives,dh_installcatalogs,dh_installchangelogs,dh_installcron,dh_installdeb,dh_installdebconf,dh_installdirs,dh_installdocs,dh_installemacsen,dh_installexamples,dh_installgsettings,dh_installifupdown,dh_installinfo,dh_installinit,dh_installinitramfs,dh_installlogcheck,dh_installlogrotate,dh_installman,dh_installmanpages,dh_installmenu,dh_installmime,dh_installmodules,dh_installpam,dh_installppp,dh_installsystemd,dh_installsystemduser,dh_installsysusers,dh_installtmpfiles,dh_installudev,dh_installwm,dh_installxfonts,dh_link,dh_lintian,dh_listpackages,dh_makeshlibs,dh_md5sums,dh_missing,dh_movefiles,dh_perl,dh_prep,dh_shlibdeps,dh_strip,dh_systemd_enable,dh_systemd_start,dh_testdir,dh_testroot,dh_ucf,dh_update_autotools_config,dh_usrlocal
+
+name: dmeventd
+version: 2:1.02.175-2ubuntu4~ubuntu20.04.1
+commands: dmeventd
+
+name: dmsetup
+version: 2:1.02.175-2ubuntu4~ubuntu20.04.1
+commands: blkdeactivate,dmsetup,dmstats
+
+name: freeipmi-tools
+version: 1.6.9-2~bpo20.04.1
+commands: bmc-config,bmc-device,bmc-info,ipmi-chassis,ipmi-chassis-config,ipmi-config,ipmi-console,ipmi-dcmi,ipmi-fru,ipmi-locate,ipmi-oem,ipmi-pef-config,ipmi-pet,ipmi-ping,ipmi-power,ipmi-raw,ipmi-sel,ipmi-sensors,ipmi-sensors-config,ipmiconsole,ipmimonitoring,ipmiping,ipmipower,pef-config,rmcp-ping,rmcpping
+
+name: libreoffice-calc
+version: 1:7.2.7-0ubuntu0.21.10.1~bpo20.04.1
+commands: localc
+
+name: libreoffice-common
+version: 1:7.2.7-0ubuntu0.21.10.1~bpo20.04.1
+commands: libreoffice,loffice,lofromtemplate,soffice,unopkg
+
+name: libreoffice-draw
+version: 1:7.2.7-0ubuntu0.21.10.1~bpo20.04.1
+commands: lodraw
+
+name: libreoffice-impress
+version: 1:7.2.7-0ubuntu0.21.10.1~bpo20.04.1
+commands: loimpress
+
+name: libreoffice-math
+version: 1:7.2.7-0ubuntu0.21.10.1~bpo20.04.1
+commands: lomath
+
+name: libreoffice-writer
+version: 1:7.2.7-0ubuntu0.21.10.1~bpo20.04.1
+commands: loweb,lowriter
+
+name: lvm2
+version: 2.03.11-2ubuntu4~ubuntu20.04.1
+commands: fsadm,lvchange,lvconvert,lvcreate,lvdisplay,lvextend,lvm,lvmconfig,lvmdiskscan,lvmdump,lvmpolld,lvmsadc,lvmsar,lvreduce,lvremove,lvrename,lvresize,lvs,lvscan,pvchange,pvck,pvcreate,pvdisplay,pvmove,pvremove,pvresize,pvs,pvscan,vgcfgbackup,vgcfgrestore,vgchange,vgck,vgconvert,vgcreate,vgdisplay,vgexport,vgextend,vgimport,vgimportclone,vgmerge,vgmknodes,vgreduce,vgremove,vgrename,vgs,vgscan,vgsplit
+

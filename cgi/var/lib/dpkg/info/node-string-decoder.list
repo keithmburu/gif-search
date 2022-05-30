@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-string-decoder
+/usr/share/doc/node-string-decoder/README.md
+/usr/share/doc/node-string-decoder/changelog.Debian.gz
+/usr/share/doc/node-string-decoder/copyright
+/usr/share/nodejs
+/usr/share/nodejs/string_decoder
+/usr/share/nodejs/string_decoder/lib
+/usr/share/nodejs/string_decoder/lib/string_decoder.js
+/usr/share/nodejs/string_decoder/package.json

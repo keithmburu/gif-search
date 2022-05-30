@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-p-is-promise
+/usr/share/doc/node-p-is-promise/changelog.Debian.gz
+/usr/share/doc/node-p-is-promise/copyright
+/usr/share/doc/node-p-is-promise/readme.md
+/usr/share/nodejs
+/usr/share/nodejs/p-is-promise
+/usr/share/nodejs/p-is-promise/index.d.ts
+/usr/share/nodejs/p-is-promise/index.js
+/usr/share/nodejs/p-is-promise/package.json

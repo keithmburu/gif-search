@@ -1,0 +1,12 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-is-path-inside
+/usr/share/doc/node-is-path-inside/changelog.Debian.gz
+/usr/share/doc/node-is-path-inside/copyright
+/usr/share/doc/node-is-path-inside/readme.md
+/usr/share/nodejs
+/usr/share/nodejs/is-path-inside
+/usr/share/nodejs/is-path-inside/index.js
+/usr/share/nodejs/is-path-inside/package.json

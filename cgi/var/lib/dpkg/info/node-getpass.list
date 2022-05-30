@@ -1,0 +1,14 @@
+/.
+/usr
+/usr/lib
+/usr/lib/nodejs
+/usr/lib/nodejs/getpass
+/usr/lib/nodejs/getpass/lib
+/usr/lib/nodejs/getpass/lib/index.js
+/usr/lib/nodejs/getpass/package.json
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-getpass
+/usr/share/doc/node-getpass/README.md
+/usr/share/doc/node-getpass/changelog.Debian.gz
+/usr/share/doc/node-getpass/copyright

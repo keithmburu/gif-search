@@ -1,0 +1,12 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-wide-align
+/usr/share/doc/node-wide-align/README.md
+/usr/share/doc/node-wide-align/changelog.Debian.gz
+/usr/share/doc/node-wide-align/copyright
+/usr/share/nodejs
+/usr/share/nodejs/wide-align
+/usr/share/nodejs/wide-align/align.js
+/usr/share/nodejs/wide-align/package.json

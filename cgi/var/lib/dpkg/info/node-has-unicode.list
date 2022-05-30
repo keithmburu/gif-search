@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/nodejs
+/usr/lib/nodejs/has-unicode
+/usr/lib/nodejs/has-unicode/index.js
+/usr/lib/nodejs/has-unicode/package.json
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-has-unicode
+/usr/share/doc/node-has-unicode/README.md
+/usr/share/doc/node-has-unicode/changelog.Debian.gz
+/usr/share/doc/node-has-unicode/copyright

@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/nodejs
+/usr/lib/nodejs/strip-eof
+/usr/lib/nodejs/strip-eof/index.js
+/usr/lib/nodejs/strip-eof/package.json
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-strip-eof
+/usr/share/doc/node-strip-eof/changelog.Debian.gz
+/usr/share/doc/node-strip-eof/copyright
+/usr/share/doc/node-strip-eof/readme.md

@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-delayed-stream
+/usr/share/doc/node-delayed-stream/Readme.md
+/usr/share/doc/node-delayed-stream/changelog.Debian.gz
+/usr/share/doc/node-delayed-stream/copyright
+/usr/share/nodejs
+/usr/share/nodejs/delayed-stream
+/usr/share/nodejs/delayed-stream/lib
+/usr/share/nodejs/delayed-stream/lib/delayed_stream.js
+/usr/share/nodejs/delayed-stream/package.json

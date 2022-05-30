@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-strip-json-comments
+/usr/share/doc/node-strip-json-comments/changelog.Debian.gz
+/usr/share/doc/node-strip-json-comments/copyright
+/usr/share/doc/node-strip-json-comments/readme.md
+/usr/share/nodejs
+/usr/share/nodejs/strip-json-comments
+/usr/share/nodejs/strip-json-comments/index.d.ts
+/usr/share/nodejs/strip-json-comments/index.js
+/usr/share/nodejs/strip-json-comments/package.json

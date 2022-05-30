@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/nodejs
+/usr/lib/nodejs/json-stable-stringify
+/usr/lib/nodejs/json-stable-stringify/index.js
+/usr/lib/nodejs/json-stable-stringify/package.json
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-json-stable-stringify
+/usr/share/doc/node-json-stable-stringify/changelog.Debian.gz
+/usr/share/doc/node-json-stable-stringify/copyright
+/usr/share/doc/node-json-stable-stringify/readme.markdown

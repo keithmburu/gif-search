@@ -1,0 +1,12 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-configstore
+/usr/share/doc/node-configstore/changelog.Debian.gz
+/usr/share/doc/node-configstore/copyright
+/usr/share/doc/node-configstore/readme.md
+/usr/share/nodejs
+/usr/share/nodejs/configstore
+/usr/share/nodejs/configstore/index.js
+/usr/share/nodejs/configstore/package.json

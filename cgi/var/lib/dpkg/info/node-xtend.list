@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-xtend
+/usr/share/doc/node-xtend/README.md
+/usr/share/doc/node-xtend/changelog.Debian.gz
+/usr/share/doc/node-xtend/copyright
+/usr/share/nodejs
+/usr/share/nodejs/xtend
+/usr/share/nodejs/xtend/immutable.js
+/usr/share/nodejs/xtend/mutable.js
+/usr/share/nodejs/xtend/package.json

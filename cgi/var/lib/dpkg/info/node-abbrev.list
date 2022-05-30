@@ -1,0 +1,12 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-abbrev
+/usr/share/doc/node-abbrev/README.md
+/usr/share/doc/node-abbrev/changelog.Debian.gz
+/usr/share/doc/node-abbrev/copyright
+/usr/share/nodejs
+/usr/share/nodejs/abbrev
+/usr/share/nodejs/abbrev/abbrev.js
+/usr/share/nodejs/abbrev/package.json

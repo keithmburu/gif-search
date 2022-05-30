@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/nodejs
+/usr/lib/nodejs/validate-npm-package-name
+/usr/lib/nodejs/validate-npm-package-name/index.js
+/usr/lib/nodejs/validate-npm-package-name/package.json
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-validate-npm-package-name
+/usr/share/doc/node-validate-npm-package-name/README.md
+/usr/share/doc/node-validate-npm-package-name/changelog.Debian.gz
+/usr/share/doc/node-validate-npm-package-name/copyright

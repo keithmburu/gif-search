@@ -1,0 +1,12 @@
+/.
+/usr
+/usr/share
+/usr/share/javascript
+/usr/share/javascript/is-typedarray
+/usr/share/javascript/is-typedarray/index.js
+/usr/share/javascript/is-typedarray/index.min.js
+/usr/share/doc
+/usr/share/doc/libjs-is-typedarray
+/usr/share/doc/libjs-is-typedarray/copyright
+/usr/share/doc/libjs-is-typedarray/README.md
+/usr/share/doc/libjs-is-typedarray/changelog.Debian.gz

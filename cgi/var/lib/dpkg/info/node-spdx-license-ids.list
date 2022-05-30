@@ -1,0 +1,16 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-spdx-license-ids
+/usr/share/doc/node-spdx-license-ids/README.md
+/usr/share/doc/node-spdx-license-ids/changelog.Debian.gz
+/usr/share/doc/node-spdx-license-ids/copyright
+/usr/share/nodejs
+/usr/share/nodejs/get-spdx-license-ids
+/usr/share/nodejs/get-spdx-license-ids/index.js
+/usr/share/nodejs/get-spdx-license-ids/package.json
+/usr/share/nodejs/spdx-license-ids
+/usr/share/nodejs/spdx-license-ids/deprecated.json
+/usr/share/nodejs/spdx-license-ids/index.json
+/usr/share/nodejs/spdx-license-ids/package.json

@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/nodejs
+/usr/lib/nodejs/xdg-basedir
+/usr/lib/nodejs/xdg-basedir/index.js
+/usr/lib/nodejs/xdg-basedir/package.json
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-xdg-basedir
+/usr/share/doc/node-xdg-basedir/changelog.Debian.gz
+/usr/share/doc/node-xdg-basedir/copyright
+/usr/share/doc/node-xdg-basedir/readme.md

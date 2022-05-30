@@ -1,0 +1,16 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-form-data
+/usr/share/doc/node-form-data/Readme.md.gz
+/usr/share/doc/node-form-data/changelog.Debian.gz
+/usr/share/doc/node-form-data/copyright
+/usr/share/nodejs
+/usr/share/nodejs/form-data
+/usr/share/nodejs/form-data/index.d.ts
+/usr/share/nodejs/form-data/lib
+/usr/share/nodejs/form-data/lib/browser.js
+/usr/share/nodejs/form-data/lib/form_data.js
+/usr/share/nodejs/form-data/lib/populate.js
+/usr/share/nodejs/form-data/package.json

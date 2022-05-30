@@ -1,0 +1,13 @@
+#!/bin/sh
+#
+
+set -e
+
+if [ $1 != "upgrade" ]; then
+  update-alternatives --quiet --remove editor /usr/bin/e3em
+  update-alternatives --quiet --remove vi /usr/bin/e3vi
+  update-alternatives --quiet --remove emacs /usr/bin/e3em
+fi
+
+
+

@@ -1,0 +1,12 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-duplexify
+/usr/share/doc/node-duplexify/README.md
+/usr/share/doc/node-duplexify/changelog.Debian.gz
+/usr/share/doc/node-duplexify/copyright
+/usr/share/nodejs
+/usr/share/nodejs/duplexify
+/usr/share/nodejs/duplexify/index.js
+/usr/share/nodejs/duplexify/package.json

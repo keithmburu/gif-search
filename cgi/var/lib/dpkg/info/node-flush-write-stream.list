@@ -1,0 +1,14 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-flush-write-stream
+/usr/share/doc/node-flush-write-stream/README.md
+/usr/share/doc/node-flush-write-stream/changelog.Debian.gz
+/usr/share/doc/node-flush-write-stream/copyright
+/usr/share/doc/node-flush-write-stream/examples
+/usr/share/doc/node-flush-write-stream/examples/example.js
+/usr/share/nodejs
+/usr/share/nodejs/flush-write-stream
+/usr/share/nodejs/flush-write-stream/index.js
+/usr/share/nodejs/flush-write-stream/package.json

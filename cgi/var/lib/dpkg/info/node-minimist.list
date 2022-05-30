@@ -1,0 +1,14 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-minimist
+/usr/share/doc/node-minimist/changelog.Debian.gz
+/usr/share/doc/node-minimist/copyright
+/usr/share/doc/node-minimist/examples
+/usr/share/doc/node-minimist/examples/parse.js
+/usr/share/doc/node-minimist/readme.markdown
+/usr/share/nodejs
+/usr/share/nodejs/minimist
+/usr/share/nodejs/minimist/index.js
+/usr/share/nodejs/minimist/package.json

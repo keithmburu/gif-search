@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-combined-stream
+/usr/share/doc/node-combined-stream/Readme.md.gz
+/usr/share/doc/node-combined-stream/changelog.Debian.gz
+/usr/share/doc/node-combined-stream/copyright
+/usr/share/nodejs
+/usr/share/nodejs/combined-stream
+/usr/share/nodejs/combined-stream/lib
+/usr/share/nodejs/combined-stream/lib/combined_stream.js
+/usr/share/nodejs/combined-stream/package.json

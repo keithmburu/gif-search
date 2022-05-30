@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-ip
+/usr/share/doc/node-ip/README.md
+/usr/share/doc/node-ip/changelog.Debian.gz
+/usr/share/doc/node-ip/copyright
+/usr/share/nodejs
+/usr/share/nodejs/ip
+/usr/share/nodejs/ip/lib
+/usr/share/nodejs/ip/lib/ip.js
+/usr/share/nodejs/ip/package.json

@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/nodejs
+/usr/lib/nodejs/got
+/usr/lib/nodejs/got/index.js
+/usr/lib/nodejs/got/package.json
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-got
+/usr/share/doc/node-got/changelog.Debian.gz
+/usr/share/doc/node-got/copyright
+/usr/share/doc/node-got/readme.md.gz

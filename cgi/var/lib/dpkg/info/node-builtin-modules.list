@@ -1,0 +1,16 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-builtin-modules
+/usr/share/doc/node-builtin-modules/changelog.Debian.gz
+/usr/share/doc/node-builtin-modules/copyright
+/usr/share/doc/node-builtin-modules/readme.md
+/usr/share/nodejs
+/usr/share/nodejs/builtin-modules
+/usr/share/nodejs/builtin-modules/builtin-modules.json
+/usr/share/nodejs/builtin-modules/index.d.ts
+/usr/share/nodejs/builtin-modules/index.js
+/usr/share/nodejs/builtin-modules/package.json
+/usr/share/nodejs/builtin-modules/static.d.ts
+/usr/share/nodejs/builtin-modules/static.js

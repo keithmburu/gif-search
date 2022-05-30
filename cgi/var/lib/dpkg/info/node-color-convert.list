@@ -1,0 +1,14 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-color-convert
+/usr/share/doc/node-color-convert/README.md
+/usr/share/doc/node-color-convert/changelog.Debian.gz
+/usr/share/doc/node-color-convert/copyright
+/usr/share/nodejs
+/usr/share/nodejs/color-convert
+/usr/share/nodejs/color-convert/conversions.js
+/usr/share/nodejs/color-convert/index.js
+/usr/share/nodejs/color-convert/package.json
+/usr/share/nodejs/color-convert/route.js

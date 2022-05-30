@@ -1,0 +1,80 @@
+[Sun May 29 13:31:59.014687 2022] [mpm_event:notice] [pid 2881:tid 139863583927360] AH00489: Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+[Sun May 29 13:31:59.014771 2022] [core:notice] [pid 2881:tid 139863583927360] AH00094: Command line: '/usr/sbin/apache2'
+[Sun May 29 15:10:16.601131 2022] [mpm_event:notice] [pid 2881:tid 139863583927360] AH00491: caught SIGTERM, shutting down
+[Sun May 29 15:10:17.658192 2022] [mpm_event:notice] [pid 11489:tid 139688916577344] AH00489: Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+[Sun May 29 15:10:17.658227 2022] [core:notice] [pid 11489:tid 139688916577344] AH00094: Command line: '/usr/sbin/apache2'
+[Sun May 29 16:00:32.821392 2022] [cgi:error] [pid 11494:tid 139688207693568] [client 172.22.208.1:10144] malformed header from script 'gifs.cgi': Bad header: <tr><td>page_num</td><td>0</td, referer: http://172.22.219.85/gifs.cgi
+[Sun May 29 16:02:47.934904 2022] [cgi:error] [pid 11494:tid 139688190908160] [client 172.22.208.1:10486] malformed header from script 'gifs.cgi': Bad header: <tr><td>page_num</td><td>0</td, referer: http://172.22.219.85/
+[Sun May 29 16:02:58.533297 2022] [cgi:error] [pid 11493:tid 139688325125888] [client 172.22.208.1:10521] malformed header from script 'gifs.cgi': Bad header: <tr><td>page_num</td><td>0</td, referer: http://172.22.219.85/
+[Sun May 29 16:05:05.777497 2022] [mpm_event:notice] [pid 11489:tid 139688916577344] AH00491: caught SIGTERM, shutting down
+[Sun May 29 16:05:06.823840 2022] [mpm_event:notice] [pid 13008:tid 140169631693888] AH00489: Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+[Sun May 29 16:05:06.823869 2022] [core:notice] [pid 13008:tid 140169631693888] AH00094: Command line: '/usr/sbin/apache2'
+[Sun May 29 16:05:25.560998 2022] [cgi:error] [pid 13013:tid 140169546036992] [client 172.22.208.1:10938] malformed header from script 'gifs.cgi': Bad header: <tr><td>page_num</td><td>0</td, referer: http://172.22.219.85/
+[Sun May 29 16:09:02.452312 2022] [cgi:error] [pid 13013:tid 140169529251584] [client 172.22.208.1:11496] malformed header from script 'gifs.cgi': Bad header: <tr><td>page_num</td><td>0</td, referer: http://172.22.219.85/
+[Sun May 29 16:09:19.715270 2022] [cgi:error] [pid 13012:tid 140169537644288] [client 172.22.208.1:11537] malformed header from script 'gifs.cgi': Bad header: <tr><td>page_num</td><td>0</td, referer: http://172.22.219.85/
+[Sun May 29 16:09:37.016107 2022] [cgi:error] [pid 13013:tid 140169520858880] [client 172.22.208.1:11596] malformed header from script 'gifs.cgi': Bad header: <tr><td>page_num</td><td>0</td, referer: http://172.22.219.85/
+[Sun May 29 16:18:23.557570 2022] [cgi:error] [pid 13013:tid 140168002533120] [client 172.22.208.1:13447] Premature end of script headers: gifs.cgi, referer: http://172.22.219.85/gifs.cgi
+[Sun May 29 17:03:55.449897 2022] [cgi:error] [pid 13012:tid 140169537644288] [client 172.22.208.1:6548] Premature end of script headers: gifs.cgi, referer: http://172.22.219.85/
+[Sun May 29 17:03:59.716307 2022] [cgi:error] [pid 13013:tid 140169093027584] [client 172.22.208.1:6569] Premature end of script headers: gifs.cgi, referer: http://172.22.219.85/
+[Sun May 29 17:04:15.188217 2022] [mpm_event:notice] [pid 13008:tid 140169631693888] AH00491: caught SIGTERM, shutting down
+[Sun May 29 17:04:16.243986 2022] [mpm_event:notice] [pid 15109:tid 139872113421376] AH00489: Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+[Sun May 29 17:04:16.244020 2022] [core:notice] [pid 15109:tid 139872113421376] AH00094: Command line: '/usr/sbin/apache2'
+[Sun May 29 17:04:26.489616 2022] [cgi:error] [pid 15113:tid 139872102663936] [client 172.22.208.1:6634] Premature end of script headers: gifs.cgi, referer: http://172.22.219.85/
+[Sun May 29 19:29:05.762134 2022] [mpm_event:notice] [pid 15109:tid 139872113421376] AH00491: caught SIGTERM, shutting down
+[Sun May 29 19:29:06.818839 2022] [mpm_event:notice] [pid 18325:tid 140276513238080] AH00489: Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+[Sun May 29 19:29:06.818878 2022] [core:notice] [pid 18325:tid 140276513238080] AH00094: Command line: '/usr/sbin/apache2'
+[Sun May 29 20:02:33.675512 2022] [mpm_event:notice] [pid 18325:tid 140276513238080] AH00491: caught SIGTERM, shutting down
+[Sun May 29 20:02:34.754934 2022] [mpm_event:notice] [pid 18689:tid 139670547061824] AH00489: Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+[Sun May 29 20:02:34.754975 2022] [core:notice] [pid 18689:tid 139670547061824] AH00094: Command line: '/usr/sbin/apache2'
+[Sun May 29 20:33:05.715990 2022] [mpm_event:notice] [pid 18689:tid 139670547061824] AH00491: caught SIGTERM, shutting down
+[Sun May 29 20:33:06.778531 2022] [mpm_event:notice] [pid 20601:tid 140310105754688] AH00489: Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+[Sun May 29 20:33:06.778574 2022] [core:notice] [pid 20601:tid 140310105754688] AH00094: Command line: '/usr/sbin/apache2'
+[Sun May 29 20:33:45.803407 2022] [core:warn] [pid 20601:tid 140310105754688] AH00045: child process 20605 still did not exit, sending a SIGTERM
+[Sun May 29 20:33:47.805751 2022] [core:warn] [pid 20601:tid 140310105754688] AH00045: child process 20605 still did not exit, sending a SIGTERM
+[Sun May 29 20:33:49.808163 2022] [core:warn] [pid 20601:tid 140310105754688] AH00045: child process 20605 still did not exit, sending a SIGTERM
+[Sun May 29 20:33:51.810419 2022] [core:error] [pid 20601:tid 140310105754688] AH00046: child process 20605 still did not exit, sending a SIGKILL
+[Sun May 29 20:33:52.811781 2022] [mpm_event:notice] [pid 20601:tid 140310105754688] AH00491: caught SIGTERM, shutting down
+[Sun May 29 20:33:53.527127 2022] [mpm_event:notice] [pid 20832:tid 140583674649664] AH00489: Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+[Sun May 29 20:33:53.527158 2022] [core:notice] [pid 20832:tid 140583674649664] AH00094: Command line: '/usr/sbin/apache2'
+[Mon May 30 01:55:43.346300 2022] [mpm_event:notice] [pid 20832:tid 140583674649664] AH00491: caught SIGTERM, shutting down
+[Mon May 30 01:55:44.471198 2022] [mpm_event:notice] [pid 22027:tid 139965441928256] AH00489: Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+[Mon May 30 01:55:44.471321 2022] [core:notice] [pid 22027:tid 139965441928256] AH00094: Command line: '/usr/sbin/apache2'
+[Mon May 30 11:10:06.692313 2022] [mpm_event:notice] [pid 22027:tid 139965441928256] AH00491: caught SIGTERM, shutting down
+[Mon May 30 11:10:07.771371 2022] [mpm_event:notice] [pid 23306:tid 140057200147520] AH00489: Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+[Mon May 30 11:10:07.771461 2022] [core:notice] [pid 23306:tid 140057200147520] AH00094: Command line: '/usr/sbin/apache2'
+[Mon May 30 11:38:25.354697 2022] [mpm_event:notice] [pid 23306:tid 140057200147520] AH00491: caught SIGTERM, shutting down
+[Mon May 30 11:38:26.400920 2022] [mpm_event:notice] [pid 23531:tid 140663419579456] AH00489: Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+[Mon May 30 11:38:26.400950 2022] [core:notice] [pid 23531:tid 140663419579456] AH00094: Command line: '/usr/sbin/apache2'
+[Mon May 30 12:34:37.346365 2022] [mpm_event:notice] [pid 23531:tid 140663419579456] AH00491: caught SIGTERM, shutting down
+[Mon May 30 12:34:38.426829 2022] [mpm_event:notice] [pid 25111:tid 139814280285248] AH00489: Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+[Mon May 30 12:34:38.426874 2022] [core:notice] [pid 25111:tid 139814280285248] AH00094: Command line: '/usr/sbin/apache2'
+[Mon May 30 12:42:22.280615 2022] [mpm_event:notice] [pid 25111:tid 139814280285248] AH00491: caught SIGTERM, shutting down
+[Mon May 30 12:42:23.309232 2022] [mpm_event:notice] [pid 25265:tid 139752682384448] AH00489: Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+[Mon May 30 12:42:23.309271 2022] [core:notice] [pid 25265:tid 139752682384448] AH00094: Command line: '/usr/sbin/apache2'
+[Mon May 30 12:43:22.401962 2022] [mpm_event:notice] [pid 25265:tid 139752682384448] AH00491: caught SIGTERM, shutting down
+[Mon May 30 12:43:23.453483 2022] [mpm_event:notice] [pid 25401:tid 140085419605056] AH00489: Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+[Mon May 30 12:43:23.454064 2022] [core:notice] [pid 25401:tid 140085419605056] AH00094: Command line: '/usr/sbin/apache2'
+[Mon May 30 12:49:37.795417 2022] [mpm_event:notice] [pid 25401:tid 140085419605056] AH00491: caught SIGTERM, shutting down
+[Mon May 30 12:49:38.849659 2022] [mpm_event:notice] [pid 25552:tid 140567562107968] AH00489: Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+[Mon May 30 12:49:38.849702 2022] [core:notice] [pid 25552:tid 140567562107968] AH00094: Command line: '/usr/sbin/apache2'
+[Mon May 30 12:58:13.130799 2022] [mpm_event:notice] [pid 25552:tid 140567562107968] AH00491: caught SIGTERM, shutting down
+[Mon May 30 12:58:14.186692 2022] [mpm_event:notice] [pid 25711:tid 140046519192640] AH00489: Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+[Mon May 30 12:58:14.186747 2022] [core:notice] [pid 25711:tid 140046519192640] AH00094: Command line: '/usr/sbin/apache2'
+[Mon May 30 13:16:15.429270 2022] [mpm_event:notice] [pid 25711:tid 140046519192640] AH00491: caught SIGTERM, shutting down
+[Mon May 30 13:16:16.477210 2022] [mpm_event:notice] [pid 25901:tid 139710603447360] AH00489: Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+[Mon May 30 13:16:16.477245 2022] [core:notice] [pid 25901:tid 139710603447360] AH00094: Command line: '/usr/sbin/apache2'
+[Mon May 30 13:33:27.020607 2022] [mpm_event:notice] [pid 25901:tid 139710603447360] AH00491: caught SIGTERM, shutting down
+[Mon May 30 13:33:28.072834 2022] [mpm_event:notice] [pid 26194:tid 140524378643520] AH00489: Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+[Mon May 30 13:33:28.072863 2022] [core:notice] [pid 26194:tid 140524378643520] AH00094: Command line: '/usr/sbin/apache2'
+[Mon May 30 14:02:17.650807 2022] [mpm_event:notice] [pid 26194:tid 140524378643520] AH00491: caught SIGTERM, shutting down
+[Mon May 30 14:02:18.693983 2022] [mpm_event:notice] [pid 27365:tid 140349806541888] AH00489: Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+[Mon May 30 14:02:18.694022 2022] [core:notice] [pid 27365:tid 140349806541888] AH00094: Command line: '/usr/sbin/apache2'
+[Mon May 30 14:09:04.840809 2022] [mpm_event:notice] [pid 27365:tid 140349806541888] AH00491: caught SIGTERM, shutting down
+[Mon May 30 14:17:29.742477 2022] [mpm_event:notice] [pid 29566:tid 139848137460800] AH00489: Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+[Mon May 30 14:17:29.742542 2022] [core:notice] [pid 29566:tid 139848137460800] AH00094: Command line: '/usr/sbin/apache2'
+[Mon May 30 14:27:09.111991 2022] [mpm_event:notice] [pid 29566:tid 139848137460800] AH00491: caught SIGTERM, shutting down
+[Mon May 30 14:27:10.153727 2022] [mpm_event:notice] [pid 29875:tid 139952160377920] AH00489: Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+[Mon May 30 14:27:10.153756 2022] [core:notice] [pid 29875:tid 139952160377920] AH00094: Command line: '/usr/sbin/apache2'
+[Mon May 30 14:31:27.873200 2022] [mpm_event:notice] [pid 29875:tid 139952160377920] AH00491: caught SIGTERM, shutting down
+[Mon May 30 14:31:28.918558 2022] [mpm_event:notice] [pid 30343:tid 140115481951296] AH00489: Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+[Mon May 30 14:31:28.918586 2022] [core:notice] [pid 30343:tid 140115481951296] AH00094: Command line: '/usr/sbin/apache2'

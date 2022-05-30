@@ -1,0 +1,6 @@
+81443ae283d9031000862ce501c9f964  usr/lib/nodejs/fs.realpath/index.js
+8c3d2bd3edf5d8918b7cbf3c93b3ba32  usr/lib/nodejs/fs.realpath/old.js
+3aa3d67ce378e330e293496dd3b9a506  usr/lib/nodejs/fs.realpath/package.json
+b0e79f63ca0f7b8904b2b0e01b8aa1ed  usr/share/doc/node-fs.realpath/README.md
+e8f369819975c2966eb2f3d555158030  usr/share/doc/node-fs.realpath/changelog.Debian.gz
+b33d83f54e51850cad1e33dd7b0fe52f  usr/share/doc/node-fs.realpath/copyright

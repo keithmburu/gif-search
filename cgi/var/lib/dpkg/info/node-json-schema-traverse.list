@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/nodejs
+/usr/lib/nodejs/json-schema-traverse
+/usr/lib/nodejs/json-schema-traverse/index.js
+/usr/lib/nodejs/json-schema-traverse/package.json
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-json-schema-traverse
+/usr/share/doc/node-json-schema-traverse/README.md
+/usr/share/doc/node-json-schema-traverse/changelog.Debian.gz
+/usr/share/doc/node-json-schema-traverse/copyright

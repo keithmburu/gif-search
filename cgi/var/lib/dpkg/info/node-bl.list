@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-bl
+/usr/share/doc/node-bl/README.md.gz
+/usr/share/doc/node-bl/changelog.Debian.gz
+/usr/share/doc/node-bl/copyright
+/usr/share/nodejs
+/usr/share/nodejs/bl
+/usr/share/nodejs/bl/BufferList.js
+/usr/share/nodejs/bl/bl.js
+/usr/share/nodejs/bl/package.json

@@ -1,0 +1,14 @@
+/.
+/usr
+/usr/lib
+/usr/lib/nodejs
+/usr/lib/nodejs/fs.realpath
+/usr/lib/nodejs/fs.realpath/index.js
+/usr/lib/nodejs/fs.realpath/old.js
+/usr/lib/nodejs/fs.realpath/package.json
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-fs.realpath
+/usr/share/doc/node-fs.realpath/README.md
+/usr/share/doc/node-fs.realpath/changelog.Debian.gz
+/usr/share/doc/node-fs.realpath/copyright

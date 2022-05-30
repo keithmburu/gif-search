@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/nodejs
+/usr/lib/nodejs/mem
+/usr/lib/nodejs/mem/index.js
+/usr/lib/nodejs/mem/package.json
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-mem
+/usr/share/doc/node-mem/changelog.Debian.gz
+/usr/share/doc/node-mem/copyright
+/usr/share/doc/node-mem/readme.md

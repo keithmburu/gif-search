@@ -1,0 +1,12 @@
+auto
+/usr/bin/jexec
+jexec-binfmt
+/usr/share/binfmts/jar
+
+/usr/lib/jvm/java-13-openjdk-amd64/lib/jexec
+1311
+/usr/lib/jvm/java-13-openjdk-amd64/lib/jar.binfmt
+/usr/lib/jvm/java-17-openjdk-amd64/lib/jexec
+1711
+/usr/lib/jvm/java-17-openjdk-amd64/lib/jar.binfmt
+

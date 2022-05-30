@@ -1,0 +1,12 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-typedarray-to-buffer
+/usr/share/doc/node-typedarray-to-buffer/copyright
+/usr/lib
+/usr/lib/nodejs
+/usr/lib/nodejs/typedarray-to-buffer
+/usr/lib/nodejs/typedarray-to-buffer/package.json
+/usr/share/doc/node-typedarray-to-buffer/changelog.Debian.gz
+/usr/lib/nodejs/typedarray-to-buffer/index.js

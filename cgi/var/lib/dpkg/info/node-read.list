@@ -1,0 +1,15 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-read
+/usr/share/doc/node-read/README.md
+/usr/share/doc/node-read/changelog.Debian.gz
+/usr/share/doc/node-read/copyright
+/usr/share/doc/node-read/examples
+/usr/share/doc/node-read/examples/example.js
+/usr/share/nodejs
+/usr/share/nodejs/read
+/usr/share/nodejs/read/lib
+/usr/share/nodejs/read/lib/read.js
+/usr/share/nodejs/read/package.json

@@ -1,0 +1,12 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-pump
+/usr/share/doc/node-pump/README.md
+/usr/share/doc/node-pump/changelog.Debian.gz
+/usr/share/doc/node-pump/copyright
+/usr/share/nodejs
+/usr/share/nodejs/pump
+/usr/share/nodejs/pump/index.js
+/usr/share/nodejs/pump/package.json

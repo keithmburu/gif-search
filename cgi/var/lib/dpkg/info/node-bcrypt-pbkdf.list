@@ -1,0 +1,12 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-bcrypt-pbkdf
+/usr/share/doc/node-bcrypt-pbkdf/README.md
+/usr/share/doc/node-bcrypt-pbkdf/changelog.Debian.gz
+/usr/share/doc/node-bcrypt-pbkdf/copyright
+/usr/share/nodejs
+/usr/share/nodejs/bcrypt-pbkdf
+/usr/share/nodejs/bcrypt-pbkdf/index.js
+/usr/share/nodejs/bcrypt-pbkdf/package.json

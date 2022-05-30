@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/nodejs
+/usr/lib/nodejs/is-object
+/usr/lib/nodejs/is-object/index.js
+/usr/lib/nodejs/is-object/package.json
+/usr/share
+/usr/share/doc
+/usr/share/doc/node-is-object
+/usr/share/doc/node-is-object/README.md
+/usr/share/doc/node-is-object/changelog.Debian.gz
+/usr/share/doc/node-is-object/copyright
