@@ -6,8 +6,8 @@ For server:
 compile: g++ -g -Iinclude -L/usr/lib/x86_64-linux-gnu -pthread cgi/cgi.cpp 
              -o cgi/var/www/html/gifs.cgi -lcgicc 
 sudo apt install apache2
-cp cgi/apache2/ /etc/
-cp cgi/var/ /var/
+cp -rf cgi/apache2/ /etc/
+cp -rf cgi/html/ /var/www/
 sudo service apache2 start
 visit ip address at ip addr | grep eth0
 
