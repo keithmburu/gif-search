@@ -29,7 +29,6 @@ bool fetch(string query, int per_page, int page_num, string& results_str, string
     response += "Query: " + query + "\n<br>";
     response += "Page: " + std::to_string(page_num+1) + "\n<br>";
     string parameters = "v1/gifs/search?api_key=gtjH6rap1pcRre0BnP2XdCr91USN8JWu&q=" + query + "&limit=" + std::to_string(per_page) + "&offset=" + std::to_string(page_num*per_page) + "&rating=r&lang=en";
-    // response += parameters + "\n<br>";
     asio::ip::tcp::iostream s("api.giphy.com", "http");
     // cout << "GET /" << parameters << " HTTP/1.0\r" << endl;
     // cout << "Host: " << host << "\r" << endl;
@@ -46,13 +45,12 @@ bool fetch(string query, int per_page, int page_num, string& results_str, string
         s << "Connection: close\r\n\r\n";
         string header;
         while (getline(s, header) && header != "\r") {
-            // response += header + "\n<br>";
+            // skipping headers;
             // cout << header << endl;
         }
         std::stringstream json_ss("");
         json_ss << s.rdbuf();
         string json = json_ss.str();
-        // response += json + "\n<br>";
         // cout << json << endl;
         rapidjson::Document doc;
         doc.Parse(json.c_str());
@@ -70,14 +68,11 @@ bool fetch(string query, int per_page, int page_num, string& results_str, string
                     string img_url = doc["data"][i]["images"]["fixed_height"]["url"].GetString();
                     string title = doc["data"][i]["title"].GetString();
                     string rank = doc["data"][i]["rating"].GetString();
-                    response += std::to_string((page_num*per_page) + (i+1)) + ") <a href=\"" + url + "\">" + url + "</a>\n<br>";
+                    response += std::to_string((page_num*per_page) + (i+1)) + ") <a href=\"" + url + "\" style=\"background-color:white;\">" + url + "</a>\n<br>";
                     response += "<img src=\"" + img_url + "\" alt=\"" + title + "\">" + "</img>\n<br>";
                     results_str += rank + ",";
                     std::tuple<string, string> entry = std::make_tuple(url, rank);
                     page.push_back(entry);
-                    // if (i == num_entries-1) {
-                    //     results.push_back(page);
-                    // }
                 }
                 response += "<br>";
                 return false;
@@ -144,11 +139,13 @@ int main() {
     
     std::string command;
     form_iterator fi = formData.getElement("command");  
-    if( !fi->isEmpty() && fi != (*formData).end()) {  
+    string instruction = "";
+    bool command_entered = (!fi->isEmpty() && fi != (*formData).end());
+    if(command_entered) {  
         cout << "Command: " << **fi << "<br>" << endl;  
         command = **fi;
         
-        string instruction = command.substr(0, command.find(' '));
+        instruction = command.substr(0, command.find(' '));
 
         if (instruction == "search") {
             string criteria = command.substr(command.find(' ')+1);
@@ -214,33 +211,33 @@ int main() {
 
         cout << "Set-Cookie:query = " << query << ";\r\n";
         cout << "Set-Cookie:page_num = " << page_num << ";\r\n";
-        cout << "Set-Cookie:results = " << results_str << ";\r\n";
-        cout << "Content-type:text/html\r\n\r\n";
-        cout << "<html>\n";
-        cout << "<head>\n";
-        cout << "<title> GIF Search </title>\n";
-        cout << "</head>\n";
-        cout << "<body>\n";
+        cout << "Set-Cookie:results = " << results_str << ";\r\n";        
+    } 
 
+    cout << "Content-type:text/html\r\n\r\n";
+    cout << "<html>\n";
+    cout << "<head>\n";
+    cout << "<title> GIF Search </title>\n";
+    cout << "<style>\n";
+    cout << "body {\n";
+    cout << "    font-family: Arial,sans-serif;\n";
+    cout << "    color: #fff;\n";
+    cout << "    background-color: #000;\n";
+    cout << "}\n";
+    cout << "</style>\n";
+    cout << "</head>\n";
+    cout << "<body>\n";
+    if(command_entered) {  
         cout << response << endl;
-        
-        if (instruction != "exit") {
-            cout << "<form action = \"/gifs.cgi\" method = \"POST\">\n";
-            cout << "Enter command: <input type = \"text\" name = \"command\">  <br />";
-            cout << "<input type = \"submit\" value = \"Submit\" />\n";
-            cout << "</form>";
-        }
     } else {
-        cout << "Content-type:text/html\r\n\r\n";
-        cout << "<html>\n";
-        cout << "<head>\n";
-        cout << "<title> GIF Search </title>\n";
-        cout << "</head>\n";
-        cout << "<body>\n";
-        cout << "No command entered" << endl;   
-    }   
-    
-    cout << "<br/>\n";
+        cout << "No command entered!" << endl;   
+    }
+    if (instruction != "exit") {
+        cout << "<form action = \"/gifs.cgi\" method = \"POST\">\n";
+        cout << "Enter command: <input type = \"text\" name = \"command\">  <br />";
+        cout << "<input type = \"submit\" value = \"Submit\"  style=\"background-color:green;\"/>\n";
+        cout << "</form>";
+    }
     cout << "</body>\n";
     cout << "</html>\n";
 
