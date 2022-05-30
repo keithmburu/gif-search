@@ -1,9 +1,0 @@
-5e5381fb039d219dace32dcd4d09b79e  usr/share/doc/node-http-signature/README.md
-0e432d17e88446e66f0ff293011aa00f  usr/share/doc/node-http-signature/changelog.Debian.gz
-246ea5d48b6b4076d19fe4b4c232155a  usr/share/doc/node-http-signature/copyright
-ebff07a92ecd2865afe6f36ba8d089a0  usr/share/nodejs/http-signature/lib/index.js
-3964025daa77fb45a0c616455b65c55d  usr/share/nodejs/http-signature/lib/parser.js
-4bf6dbefe911c2ac88d3f5208d8bce43  usr/share/nodejs/http-signature/lib/signer.js
-31a4163b0e14165a4cc578cb6c09e515  usr/share/nodejs/http-signature/lib/utils.js
-01c27f84ab270eb0d08a7c48f3482659  usr/share/nodejs/http-signature/lib/verify.js
-5f7e090f5565cd0222dfec5583d7cfab  usr/share/nodejs/http-signature/package.json

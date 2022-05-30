@@ -1,5 +1,0 @@
-
-203 updates can be applied immediately.
-135 of these updates are standard security updates.
-To see these additional updates run: apt list --upgradable
-

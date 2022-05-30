@@ -1,7 +1,0 @@
-023c3fdff1e9f8c227d49e3cae87fb7d  usr/share/doc/node-mimic-response/changelog.Debian.gz
-0d71fabcd37ae5d20449fe0347770445  usr/share/doc/node-mimic-response/copyright
-6d146604d66c66ee0cabf193b7a91b4b  usr/share/doc/node-mimic-response/readme.md
-4a5038f6fe5502b22b27af63857d512c  usr/share/lintian/overrides/node-mimic-response
-72e8f7b9fe08837c8f3ccb4e21cefb1a  usr/share/nodejs/mimic-response/index.d.ts
-62de4dc4d0c0c096bc7f52edb749b622  usr/share/nodejs/mimic-response/index.js
-6c674f4bb2748b4b79033f00460e7a0d  usr/share/nodejs/mimic-response/package.json

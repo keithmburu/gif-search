@@ -1,7 +1,0 @@
-436e26698ffd1814695f974d62b277b0  usr/lib/nodejs/execa/index.js
-e63b736173a903695796ddf3857b9adb  usr/lib/nodejs/execa/lib/errname.js
-760972df95d68978ebb0a4cf36afb64f  usr/lib/nodejs/execa/lib/stdio.js
-3b7a82d2ea03fc742e4be515e96ec631  usr/lib/nodejs/execa/package.json
-70f79bfc44a43719242ff647d29256c2  usr/share/doc/node-execa/changelog.Debian.gz
-b80e8021a22f327491a61eb1b4601215  usr/share/doc/node-execa/copyright
-1f32af9af36a14098524397260b9d99f  usr/share/doc/node-execa/readme.md.gz

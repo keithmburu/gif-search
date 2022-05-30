@@ -1,9 +1,0 @@
-b0539bd50c7ec7a75b05b46fa079a401  usr/bin/active_interactor
-bacc61c574c229a742a139c6580244c8  usr/bin/ezexample_predict
-e80807ce7333ca39c809c2e095aa1d09  usr/bin/ezexample_train
-d4a8e2ed152d1189dcaf80ade983a955  usr/bin/spanning_tree
-aefb7318db876c6f4551e9e1acdb72a4  usr/bin/vw
-69fc94d34e680f3c26dfc0483a83a286  usr/share/doc/vowpal-wabbit/README.md.gz
-e5f97a67afed345abbfd424c5f5f6e94  usr/share/doc/vowpal-wabbit/TODO.Debian
-89b08dc5c0560b24e21cbcd427e5e523  usr/share/doc/vowpal-wabbit/copyright
-9444a4da5cdbdf2836feac5c928f8112  usr/share/man/man1/vw.1.gz
